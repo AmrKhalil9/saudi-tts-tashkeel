@@ -1,0 +1,1 @@
+749 rows on cpu: median 37.9 ms, p95 53.8 ms; alignment mismatches 0

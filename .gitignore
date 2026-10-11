@@ -1,0 +1,12 @@
+models/
+third_party/
+out/
+asr/
+quality/
+lists*/
+lists_*.txt
+paper_tables/
+voices/*.wav
+__pycache__/
+*.pyc
+.DS_Store

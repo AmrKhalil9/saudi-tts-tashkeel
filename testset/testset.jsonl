@@ -1,0 +1,749 @@
+{"id": "msa001", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "مرحبا بكم في خدمة العملاء، يسعدنا تقديم المساعدة لكم على مدار الساعة."}
+{"id": "msa002", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "لإيقاف البطاقة المفقودة فورا، يرجى الضغط على الرقم واحد."}
+{"id": "msa003", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم استلام طلبك بنجاح، وسيتم تحديث حالة الحساب خلال يوم عمل واحد."}
+{"id": "msa004", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "نعتذر عن الانتظار، جميع موظفينا مشغولون حاليا بخدمة عملاء آخرين."}
+{"id": "msa005", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "يمكنكم الاطلاع على كشف الحساب من خلال التطبيق دون الحاجة إلى زيارة الفرع."}
+{"id": "msa006", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "يرجى عدم مشاركة رمز التحقق مع أي شخص، حتى لو ادعى أنه من البنك."}
+{"id": "msa007", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "لتحديث بياناتكم الشخصية، يرجى إدخال رقم الهوية متبوعا بعلامة المربع."}
+{"id": "msa008", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم تفعيل خدمة الرسائل النصية على حسابكم بنجاح."}
+{"id": "msa009", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "سيتم تحويلكم الآن إلى قسم البطاقات الائتمانية."}
+{"id": "msa010", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "لا يمكن إتمام العملية لعدم كفاية الرصيد في الحساب."}
+{"id": "msa011", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "نود إعلامكم بأن ساعات عمل الفروع تبدأ من الساعة التاسعة صباحا."}
+{"id": "msa012", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "لطلب دفتر شيكات جديد، يرجى الضغط على الرقم ثلاثة."}
+{"id": "msa013", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم رفض العملية لأسباب أمنية، يرجى التواصل معنا للتحقق."}
+{"id": "msa014", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "يمكنكم تقسيط المشتريات الكبيرة على اثني عشر شهرا دون رسوم إضافية."}
+{"id": "msa015", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "نشكركم على تواصلكم، ونرجو تقييم الخدمة بعد انتهاء المكالمة."}
+{"id": "msa016", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم تجديد البطاقة وسيتم إرسالها إلى العنوان المسجل لدينا."}
+{"id": "msa017", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "يرجى التأكد من صحة رقم الحساب قبل تأكيد التحويل."}
+{"id": "msa018", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "للاستفسار عن القروض الشخصية، يرجى البقاء على الخط."}
+{"id": "msa019", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم تعليق الحساب مؤقتا بناء على طلبكم."}
+{"id": "msa020", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "نوصي بتفعيل المصادقة الثنائية لحماية حسابكم."}
+{"id": "msa021", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تستغرق الحوالات الدولية عادة من يومين إلى ثلاثة أيام عمل."}
+{"id": "msa022", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "يرجى إدخال الرقم السري المكون من أربع خانات."}
+{"id": "msa023", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تمت إضافة المستفيد بنجاح، ويمكنكم التحويل إليه بعد ساعة."}
+{"id": "msa024", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "لم نتمكن من التحقق من هويتكم، يرجى المحاولة مرة أخرى."}
+{"id": "msa025", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "ستصلكم رسالة نصية تتضمن رابط إتمام الطلب."}
+{"id": "msa026", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "مرحبا بكم في مركز الاتصال، اختاروا اللغة العربية بالضغط على الرقم واحد."}
+{"id": "msa027", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "رصيدكم الحالي غير كاف لإتمام المكالمة، يرجى إعادة الشحن."}
+{"id": "msa028", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم تفعيل باقة الإنترنت الشهرية بنجاح."}
+{"id": "msa029", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "نواجه حاليا عطلا فنيا في بعض المناطق، ونعمل على إصلاحه في أقرب وقت."}
+{"id": "msa030", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "لمعرفة تفاصيل فاتورتكم الأخيرة، يرجى الضغط على الرقم اثنين."}
+{"id": "msa031", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "يمكنكم نقل رقمكم إلى شبكتنا دون أي رسوم."}
+{"id": "msa032", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم إلغاء الاشتراك في خدمة النغمات بناء على طلبكم."}
+{"id": "msa033", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "سيصل الفني إلى موقعكم خلال الفترة المحددة في الرسالة."}
+{"id": "msa034", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "لتغيير الباقة، يرجى استخدام التطبيق أو زيارة أقرب فرع."}
+{"id": "msa035", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "نأسف لانقطاع الخدمة، وسيتم تعويضكم عن مدة الانقطاع."}
+{"id": "msa036", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "يرجى إعادة تشغيل جهاز الراوتر والانتظار لمدة دقيقتين."}
+{"id": "msa037", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تنتهي صلاحية باقتكم الحالية بعد ثلاثة أيام."}
+{"id": "msa038", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم إرسال إعدادات الإنترنت إلى جهازكم في رسالة نصية."}
+{"id": "msa039", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "للإبلاغ عن جهاز مفقود، يرجى الضغط على الرقم خمسة."}
+{"id": "msa040", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم تسجيل شكواكم برقم مرجعي، وسيتم التواصل معكم قريبا."}
+{"id": "msa041", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "يمكنكم الاستفادة من خدمة التجوال الدولي بعد تفعيلها من التطبيق."}
+{"id": "msa042", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "سرعة الإنترنت في منطقتكم تصل إلى مئة ميغابت في الثانية."}
+{"id": "msa043", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "لا يمكن إجراء هذا التغيير قبل انتهاء مدة العقد الحالي."}
+{"id": "msa044", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "يرجى إحضار الهوية الوطنية عند استلام الشريحة الجديدة."}
+{"id": "msa045", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تمت جدولة موعد التركيب يوم الأحد القادم."}
+{"id": "msa046", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "سيتم خصم قيمة الباقة تلقائيا من رصيدكم في بداية كل شهر."}
+{"id": "msa047", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "نعتذر، الرقم الذي طلبتموه غير متاح حاليا."}
+{"id": "msa048", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "للتحدث مع أحد ممثلي خدمة العملاء، يرجى الضغط على الصفر."}
+{"id": "msa049", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم تحديث بيانات الفوترة بنجاح."}
+{"id": "msa050", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "نود تذكيركم بسداد الفاتورة المستحقة لتجنب إيقاف الخدمة."}
+{"id": "msa051", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "مرحبا بكم في مركز المواعيد، يسعدنا خدمتكم."}
+{"id": "msa052", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "لحجز موعد جديد مع الطبيب، يرجى الضغط على الرقم واحد."}
+{"id": "msa053", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم تأكيد موعدكم، ونرجو الحضور قبل الموعد بخمس عشرة دقيقة."}
+{"id": "msa054", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "في حالات الطوارئ، يرجى الاتصال بالإسعاف مباشرة."}
+{"id": "msa055", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يمكنكم إلغاء الموعد أو تغييره قبل أربع وعشرين ساعة على الأقل."}
+{"id": "msa056", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "نتائج التحاليل متاحة الآن في التطبيق."}
+{"id": "msa057", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يرجى إحضار بطاقة التأمين الطبي عند الحضور إلى العيادة."}
+{"id": "msa058", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "العيادة الخارجية مغلقة يوم الجمعة."}
+{"id": "msa059", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم تحويل طلبكم إلى قسم الإحالات الطبية."}
+{"id": "msa060", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "سيتم إرسال تذكير بالموعد قبل يوم واحد."}
+{"id": "msa061", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "لصرف الأدوية المزمنة، يرجى تجديد الوصفة من خلال الطبيب المعالج."}
+{"id": "msa062", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "نعتذر، لا توجد مواعيد متاحة هذا الأسبوع، وتمت إضافتكم إلى قائمة الانتظار."}
+{"id": "msa063", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يمكنكم استشارة الطبيب عن بعد من خلال مكالمة فيديو."}
+{"id": "msa064", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يرجى الصيام لمدة ثماني ساعات قبل إجراء التحليل."}
+{"id": "msa065", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم تحديث بياناتكم في الملف الطبي."}
+{"id": "msa066", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "للاستفسار عن التقارير الطبية، يرجى الضغط على الرقم ثلاثة."}
+{"id": "msa067", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "نحرص على سرية معلوماتكم الصحية وفق الأنظمة المعمول بها."}
+{"id": "msa068", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "سيتواصل معكم أحد أفراد الفريق الطبي خلال ساعات العمل."}
+{"id": "msa069", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم إلغاء الموعد بناء على طلبكم."}
+{"id": "msa070", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يرجى ارتداء الكمامة داخل المنشأة الصحية."}
+{"id": "msa071", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يمكنكم تقييم تجربتكم في الزيارة الأخيرة عبر الرابط المرسل."}
+{"id": "msa072", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تتوفر خدمة توصيل الأدوية إلى المنزل في بعض المدن."}
+{"id": "msa073", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "الطبيب في إجازة حاليا، ويمكنكم الحجز مع طبيب آخر من نفس التخصص."}
+{"id": "msa074", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يرجى إبلاغنا بأي أعراض جانبية بعد تناول الدواء."}
+{"id": "msa075", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم استلام طلب التقرير الطبي، وسيكون جاهزا خلال ثلاثة أيام عمل."}
+{"id": "msa076", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "مرحبا بكم في خدمة متابعة الشحنات."}
+{"id": "msa077", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "طلبكم الآن في الطريق، ومن المتوقع وصوله خلال ساعتين."}
+{"id": "msa078", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لتتبع شحنتكم، يرجى إدخال رقم الطلب."}
+{"id": "msa079", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تعذر علينا الوصول إلى العنوان، يرجى تحديد الموقع على الخريطة."}
+{"id": "msa080", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم استلام طلب الإرجاع، وسيصلكم المندوب لاستلام المنتج."}
+{"id": "msa081", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "سيتم استرداد المبلغ إلى وسيلة الدفع الأصلية خلال سبعة أيام."}
+{"id": "msa082", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "نعتذر عن التأخير في التوصيل بسبب الظروف الجوية."}
+{"id": "msa083", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "يمكنكم تغيير موعد التوصيل من خلال الرابط المرسل."}
+{"id": "msa084", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم تسليم الشحنة بنجاح، نشكركم على اختياركم."}
+{"id": "msa085", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "الدفع عند الاستلام متاح للطلبات التي تقل عن ألف ريال."}
+{"id": "msa086", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المنتج غير متوفر حاليا، وسنخبركم فور توفره."}
+{"id": "msa087", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "يرجى التأكد من تواجد شخص لاستلام الطلب."}
+{"id": "msa088", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم إلغاء الطلب، ولن يتم خصم أي مبلغ من حسابكم."}
+{"id": "msa089", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "الشحن مجاني للطلبات التي تزيد عن مئتي ريال."}
+{"id": "msa090", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لتقديم شكوى بخصوص منتج تالف، يرجى الضغط على الرقم اثنين."}
+{"id": "msa091", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "يتم التوصيل يوميا من الساعة التاسعة صباحا حتى العاشرة مساء."}
+{"id": "msa092", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم تحديث عنوان التوصيل بنجاح."}
+{"id": "msa093", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "سيتواصل معكم المندوب قبل الوصول بنصف ساعة."}
+{"id": "msa094", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لا يمكن إرجاع المنتجات المفتوحة إلا في حال وجود عيب مصنعي."}
+{"id": "msa095", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "طلبكم قيد التجهيز في المستودع."}
+{"id": "msa096", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم تقسيم طلبكم إلى شحنتين لسرعة التوصيل."}
+{"id": "msa097", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "يرجى الاحتفاظ بالفاتورة لتسهيل عملية الإرجاع."}
+{"id": "msa098", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "نوصي بفحص المنتج عند الاستلام مباشرة."}
+{"id": "msa099", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تمت إعادة جدولة التوصيل إلى يوم غد."}
+{"id": "msa100", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "يمكنكم استلام الطلب من أقرب نقطة استلام دون رسوم إضافية."}
+{"id": "msa101", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "مرحبا بكم في مركز الحجوزات، يسعدنا مساعدتكم."}
+{"id": "msa102", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم تأكيد حجزكم، وستصلكم بطاقة الصعود إلى الطائرة عبر البريد الإلكتروني."}
+{"id": "msa103", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يبدأ تسجيل الوصول عبر الإنترنت قبل موعد الرحلة بأربع وعشرين ساعة."}
+{"id": "msa104", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "نعتذر عن تأخر الرحلة لأسباب تشغيلية."}
+{"id": "msa105", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يسمح لكل مسافر بحقيبة واحدة لا يتجاوز وزنها ثلاثة وعشرين كيلوغراما."}
+{"id": "msa106", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "لتغيير موعد الرحلة، قد يتم تطبيق رسوم تعديل."}
+{"id": "msa107", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يرجى التوجه إلى البوابة قبل إغلاقها بعشرين دقيقة."}
+{"id": "msa108", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم إلغاء رحلتكم، ويمكنكم اختيار رحلة بديلة أو استرداد المبلغ."}
+{"id": "msa109", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "للاستفسار عن الأمتعة المفقودة، يرجى الضغط على الرقم أربعة."}
+{"id": "msa110", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يتوفر الإنترنت المجاني على متن رحلاتنا الدولية."}
+{"id": "msa111", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تمت ترقية مقعدكم إلى درجة الأعمال."}
+{"id": "msa112", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يرجى التأكد من صلاحية جواز السفر قبل موعد السفر."}
+{"id": "msa113", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يمكنكم اختيار المقعد المفضل من خلال التطبيق."}
+{"id": "msa114", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم إرسال تفاصيل الحجز إلى رقم الجوال المسجل."}
+{"id": "msa115", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "نشكركم على السفر معنا، ونتمنى لكم رحلة سعيدة."}
+{"id": "msa116", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "الوجبات الخاصة متاحة عند طلبها قبل الرحلة بثمان وأربعين ساعة."}
+{"id": "msa117", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم إضافة أميال المكافآت إلى حسابكم."}
+{"id": "msa118", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يرجى العلم بأن الرحلة ستغادر من الصالة الجديدة."}
+{"id": "msa119", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "لا يمكن استرداد قيمة التذاكر المخفضة."}
+{"id": "msa120", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم حجز الفندق لمدة ثلاث ليال بنجاح."}
+{"id": "msa121", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يمكنكم إضافة حقيبة إضافية مقابل رسوم محددة."}
+{"id": "msa122", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "نوصي بالوصول إلى المطار قبل الرحلة بثلاث ساعات."}
+{"id": "msa123", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم تحديث بيانات المسافر في الحجز."}
+{"id": "msa124", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "الرحلة مكتملة، وتمت إضافتكم إلى قائمة الانتظار."}
+{"id": "msa125", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يرجى الاحتفاظ بالرقم المرجعي للحجز للمراجعة."}
+{"id": "msa126", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "مرحبا بكم في خدمة عملاء الكهرباء."}
+{"id": "msa127", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "للإبلاغ عن انقطاع التيار، يرجى الضغط على الرقم واحد."}
+{"id": "msa128", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تم تسجيل البلاغ، وسيصل الفريق الفني في أقرب وقت ممكن."}
+{"id": "msa129", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "فاتورتكم لهذا الشهر جاهزة، ويمكنكم سدادها عبر التطبيق."}
+{"id": "msa130", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "نعتذر عن الانقطاع المجدول للصيانة في منطقتكم."}
+{"id": "msa131", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "يرجى ترشيد الاستهلاك خلال ساعات الذروة."}
+{"id": "msa132", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تم تركيب العداد الذكي بنجاح."}
+{"id": "msa133", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "لنقل ملكية العداد، يرجى تقديم الطلب عبر الموقع الإلكتروني."}
+{"id": "msa134", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "ستتم إعادة الخدمة فور سداد المبلغ المستحق."}
+{"id": "msa135", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تمت قراءة العداد إلكترونيا لهذا الشهر."}
+{"id": "msa136", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "يمكنكم الاشتراك في خدمة الإشعارات لمعرفة مواعيد الانقطاع."}
+{"id": "msa137", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "للإبلاغ عن تسرب في المياه، يرجى الضغط على الرقم اثنين."}
+{"id": "msa138", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تم استلام طلب توصيل الخدمة إلى العقار الجديد."}
+{"id": "msa139", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "نود إعلامكم بارتفاع الاستهلاك مقارنة بالشهر الماضي."}
+{"id": "msa140", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "يرجى إبعاد الأطفال عن الأسلاك المكشوفة والإبلاغ عنها فورا."}
+{"id": "msa141", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تم تقسيط المبلغ المستحق على ست دفعات."}
+{"id": "msa142", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "يستغرق تنفيذ طلب العداد الجديد عشرة أيام عمل."}
+{"id": "msa143", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تمت إعادة التيار الكهربائي إلى منطقتكم."}
+{"id": "msa144", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "لمعرفة رصيد العداد مسبق الدفع، يرجى إدخال رقم الحساب."}
+{"id": "msa145", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "نشكركم على تعاونكم في الحفاظ على الموارد."}
+{"id": "msa146", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تم إلغاء الاشتراك بناء على طلبكم."}
+{"id": "msa147", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "يرجى التحقق من القاطع الرئيسي قبل الإبلاغ عن الانقطاع."}
+{"id": "msa148", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تم إرسال الفاتورة الإلكترونية إلى بريدكم الإلكتروني."}
+{"id": "msa149", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "يمكنكم الاعتراض على الفاتورة خلال ثلاثين يوما من تاريخ إصدارها."}
+{"id": "msa150", "register": "msa", "subdialect": "msa", "domain": "utilities", "numform": "na", "entity_types": "", "text": "سيتم التواصل معكم لتحديد موعد الزيارة الميدانية."}
+{"id": "msa151", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "نرجو منكم البقاء على الخط، سيتم الرد عليكم في أقرب وقت."}
+{"id": "msa152", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "المدة المتوقعة للانتظار أقل من خمس دقائق."}
+{"id": "msa153", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يمكنكم طلب معاودة الاتصال بدلا من الانتظار."}
+{"id": "msa154", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يرجى الاستماع إلى الخيارات التالية بعناية لأنها تغيرت مؤخرا."}
+{"id": "msa155", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "لإعادة سماع القائمة، يرجى الضغط على علامة النجمة."}
+{"id": "msa156", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "عذرا، لم نتمكن من فهم اختياركم، يرجى المحاولة مرة أخرى."}
+{"id": "msa157", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "ساعات العمل من الأحد إلى الخميس، من الثامنة صباحا حتى الخامسة مساء."}
+{"id": "msa158", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "تم تسجيل طلبكم، وسيتم الرد عليكم خلال يومي عمل."}
+{"id": "msa159", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "قد يتم تسجيل هذه المكالمة لأغراض الجودة والتدريب."}
+{"id": "msa160", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يسعدنا سماع ملاحظاتكم لتحسين خدماتنا."}
+{"id": "msa161", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "نشكركم على صبركم، أنتم الآن التالي في قائمة الانتظار."}
+{"id": "msa162", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يمكنكم إنجاز معظم الخدمات إلكترونيا دون الحاجة إلى الاتصال."}
+{"id": "msa163", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "تم تحويل مكالمتكم إلى المختص."}
+{"id": "msa164", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "نعتذر، انتهى وقت الإدخال المسموح به."}
+{"id": "msa165", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يرجى إدخال رقم الطلب المكون من عشرة أرقام."}
+{"id": "msa166", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "تم إغلاق الطلب بعد معالجته بنجاح."}
+{"id": "msa167", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "للاستماع إلى الخيارات باللغة الإنجليزية، يرجى الضغط على الرقم تسعة."}
+{"id": "msa168", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "نود التأكد من رضاكم عن الخدمة المقدمة."}
+{"id": "msa169", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "سيتم إرسال استبيان قصير بعد انتهاء المكالمة."}
+{"id": "msa170", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يمكنكم متابعة حالة الطلب عبر الموقع الإلكتروني."}
+{"id": "msa171", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "تم حفظ تفضيلاتكم بنجاح."}
+{"id": "msa172", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "نرحب بملاحظاتكم ومقترحاتكم في أي وقت."}
+{"id": "msa173", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "يرجى تجهيز المستندات المطلوبة قبل زيارة الفرع."}
+{"id": "msa174", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "تم إرسال رمز التحقق إلى جوالكم."}
+{"id": "msa175", "register": "msa", "subdialect": "msa", "domain": "general", "numform": "na", "entity_types": "", "text": "نشكركم على الاتصال، ونتمنى لكم يوما سعيدا."}
+{"id": "msa176", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "يرجى إدخال تاريخ الميلاد بالتقويم الهجري."}
+{"id": "msa177", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارجها."}
+{"id": "msa178", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "تمت مضاعفة حد السحب اليومي بناء على طلبكم."}
+{"id": "msa179", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "سيتم احتساب الأرباح في نهاية كل ربع سنة."}
+{"id": "msa180", "register": "msa", "subdialect": "msa", "domain": "banking", "numform": "na", "entity_types": "", "text": "للإبلاغ عن عملية احتيالية، يرجى الضغط على الرقم صفر فورا."}
+{"id": "msa181", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تمت إضافة خدمة الانتظار إلى خطكم."}
+{"id": "msa182", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "يرجى إدخال رمز الشحن المكون من أربعة عشر رقما."}
+{"id": "msa183", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم تحويل الرصيد بنجاح إلى الرقم المطلوب."}
+{"id": "msa184", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "انتهت المهلة المحددة لسداد الفاتورة."}
+{"id": "msa185", "register": "msa", "subdialect": "msa", "domain": "telecom", "numform": "na", "entity_types": "", "text": "يمكنكم طلب فاتورة مفصلة لآخر ثلاثة أشهر."}
+{"id": "msa186", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم تحديد موعد المتابعة بعد أسبوعين."}
+{"id": "msa187", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يرجى الحضور إلى المختبر في الطابق الأرضي."}
+{"id": "msa188", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "لا يتطلب هذا التحليل أي تحضير مسبق."}
+{"id": "msa189", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "تم قبول طلب الإحالة إلى المستشفى التخصصي."}
+{"id": "msa190", "register": "msa", "subdialect": "msa", "domain": "health", "numform": "na", "entity_types": "", "text": "يمكنكم تحميل الشهادة الصحية من التطبيق."}
+{"id": "msa191", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم تعيين مندوب لتوصيل طلبكم."}
+{"id": "msa192", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "يرجى إدخال رمز الاستلام عند وصول المندوب."}
+{"id": "msa193", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لا يمكن تعديل الطلب بعد شحنه."}
+{"id": "msa194", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم تعويضكم بقسيمة شرائية بسبب التأخير."}
+{"id": "msa195", "register": "msa", "subdialect": "msa", "domain": "delivery", "numform": "na", "entity_types": "", "text": "نعتذر، المنطقة خارج نطاق التوصيل حاليا."}
+{"id": "msa196", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم تسجيل وصولكم بنجاح."}
+{"id": "msa197", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يرجى الالتزام بتعليمات السلامة على متن الطائرة."}
+{"id": "msa198", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم تأكيد طلب المساعدة الخاصة في المطار."}
+{"id": "msa199", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "يمكنكم استخدام الصالة بعد إبراز بطاقة الصعود."}
+{"id": "msa200", "register": "msa", "subdialect": "msa", "domain": "travel", "numform": "na", "entity_types": "", "text": "تم تمديد صلاحية التذكرة لمدة عام."}
+{"id": "dia001", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "هلا والله، معك خدمة العملاء، وش أقدر أخدمك فيه اليوم؟"}
+{"id": "dia002", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "أبشر، بس عطني لحظة أشيك على الحساب."}
+{"id": "dia003", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "البطاقة موقفة من أمس، عشان كذا ما زبطت معك العملية."}
+{"id": "dia004", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "لا تشيل هم، بنفعلها لك الحين وتقدر تستخدمها على طول."}
+{"id": "dia005", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "ودك أحولك على قسم البطاقات ولا أكمل معك أنا؟"}
+{"id": "dia006", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "الحوالة طلعت من عندنا، بس يمكن تتأخر شوي بسبب الإجازة."}
+{"id": "dia007", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "معليش على الانتظار، الضغط اليوم واجد."}
+{"id": "dia008", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "تبي أرسل لك كشف الحساب على الإيميل ولا على الجوال؟"}
+{"id": "dia009", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "طيب، وش آخر عملية تذكر إنك سويتها؟"}
+{"id": "dia010", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "لا تعطي الرمز لأحد أبد، حتى لو قال لك إنه من البنك."}
+{"id": "dia011", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "تم يا الغالي، رجعنا لك المبلغ وبيوصلك خلال يومين."}
+{"id": "dia012", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "إذا تبي تقسط، عندنا عرض حلو هالشهر بدون رسوم."}
+{"id": "dia013", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "ما فيه داعي تروح الفرع، كل شي تقدر تسويه من التطبيق."}
+{"id": "dia014", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "أشوف إن فيه عملية ما تعرفها، خلني أوقف البطاقة احتياط."}
+{"id": "dia015", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "الله يعطيك العافية، فيه شي ثاني أقدر أساعدك فيه؟"}
+{"id": "dia016", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "هلا فيك، شكلك تواجه مشكلة بالنت، صح؟"}
+{"id": "dia017", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "طفي الراوتر وشغله مرة ثانية، وخلنا نشوف."}
+{"id": "dia018", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "الباقة حقتك خلصت، عشان كذا النت صاير بطيء."}
+{"id": "dia019", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تبي أجدد لك الباقة الحين ولا تنتظر لين آخر الشهر؟"}
+{"id": "dia020", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "العطل عام بمنطقتكم، والفنيين شغالين عليه."}
+{"id": "dia021", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "بيجيك الفني بكرة الصبح، بس خلك قريب من الجوال."}
+{"id": "dia022", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "الفاتورة طالعة عالية لأنك استخدمت التجوال برا."}
+{"id": "dia023", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "أقدر أقسم لك المبلغ على دفعتين إذا يناسبك."}
+{"id": "dia024", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "لا والله ما فيه رسوم على نقل الرقم، كله مجاني."}
+{"id": "dia025", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "خلني أرفع لك بلاغ، وبيتواصلون معك خلال يوم."}
+{"id": "dia026", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "وش نوع الجوال اللي عندك؟ عشان أرسل لك الإعدادات الصح."}
+{"id": "dia027", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تمام، الشريحة الجديدة بتوصلك على البيت."}
+{"id": "dia028", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "معليش، الرقم اللي تبيه محجوز، أشوف لك رقم قريب منه؟"}
+{"id": "dia029", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "النت عندكم المفروض يكون أسرع من كذا بواجد."}
+{"id": "dia030", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "أبشر بعزك، ألغيت لك الخدمة ولا عاد بتنخصم."}
+{"id": "dia031", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "يا هلا، تبي تحجز موعد ولا تسأل عن موعد قديم؟"}
+{"id": "dia032", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "الدكتور ما عنده مواعيد هالأسبوع، أحطك بقائمة الانتظار؟"}
+{"id": "dia033", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "موعدك يوم الأحد الساعة عشر الصبح، تعال قبله بربع ساعة."}
+{"id": "dia034", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "لا تنسى تجيب بطاقة التأمين معك."}
+{"id": "dia035", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "إذا الحالة طارئة، لا تنتظر، روح للطوارئ على طول."}
+{"id": "dia036", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "التحاليل طلعت، وتقدر تشوفها بالتطبيق."}
+{"id": "dia037", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "لازم تصوم ثمان ساعات قبل التحليل، يعني لا تفطر الصبح."}
+{"id": "dia038", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "أقدر أحول لك الموعد لدكتور ثاني بنفس التخصص."}
+{"id": "dia039", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "خلني أتأكد من الملف حقك وأرجع لك."}
+{"id": "dia040", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "الدواء يوصلك للبيت إذا تبي، ما يحتاج تجي."}
+{"id": "dia041", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "معليش، العيادة مسكرة يوم الجمعة."}
+{"id": "dia042", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "طيب، من متى وأنت تحس بهالتعب؟"}
+{"id": "dia043", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "بأرسل لك رسالة تذكير قبل الموعد بيوم."}
+{"id": "dia044", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "الله يشفيك ويعافيك، وإذا احتجت شي كلمنا."}
+{"id": "dia045", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "التقرير بيكون جاهز بعد ثلاث أيام إن شاء الله."}
+{"id": "dia046", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "طلبك طلع من المستودع، وبيوصلك العصر."}
+{"id": "dia047", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المندوب ما لقى البيت، تقدر ترسل لي اللوكيشن؟"}
+{"id": "dia048", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لا تشيل هم، بنرجع لك فلوسك كاملة."}
+{"id": "dia049", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المنتج خلص من عندنا، بس بنعلمك أول ما يتوفر."}
+{"id": "dia050", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تبي نأجل التوصيل لبكرة؟ ما فيه مشكلة."}
+{"id": "dia051", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المندوب بيتصل عليك قبل لا يوصل بنص ساعة."}
+{"id": "dia052", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "إذا الغرض جاك خربان، صوره وأرسله لنا."}
+{"id": "dia053", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "الطلب انقسم شحنتين، الثانية بتجيك بعدها بيوم."}
+{"id": "dia054", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "التوصيل مجاني إذا طلبك فوق مية وخمسين."}
+{"id": "dia055", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "خلاص لغيت لك الطلب، وما راح ينخصم شي."}
+{"id": "dia056", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "معليش على التأخير، الطرق اليوم زحمة بسبب المطر."}
+{"id": "dia057", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تقدر تستلمه من أقرب نقطة استلام لك إذا تبي."}
+{"id": "dia058", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "وش رقم الطلب الله يحفظك؟"}
+{"id": "dia059", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المبلغ بيرجع على البطاقة خلال أسبوع تقريبا."}
+{"id": "dia060", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "أبشر، عدلت لك العنوان، والمندوب عنده العنوان الجديد."}
+{"id": "dia061", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "هلا وغلا، رحلتك متأكدة، وبطاقة الصعود بتجيك على الإيميل."}
+{"id": "dia062", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الرحلة متأخرة ساعة، وإن شاء الله ما تتأخر أكثر."}
+{"id": "dia063", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "تبي تغير الموعد؟ بس ترى فيه رسوم تعديل بسيطة."}
+{"id": "dia064", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الشنطة المسموحة ثلاث وعشرين كيلو، لا تزيد عليها."}
+{"id": "dia065", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "رحلتك انلغت، تبي رحلة ثانية ولا نرجع لك المبلغ؟"}
+{"id": "dia066", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "احرص تكون عند البوابة قبل لا تقفل بعشرين دقيقة."}
+{"id": "dia067", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "خلني أشوف لك مقعد عند الشباك."}
+{"id": "dia068", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الجواز حقك لازم يكون صالح ست شهور على الأقل."}
+{"id": "dia069", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "أضفت لك الأميال على حسابك."}
+{"id": "dia070", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الفندق محجوز لك ثلاث ليالي، والفطور مشمول."}
+{"id": "dia071", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "الكهرب مقطوع عندكم من الصيانة، وبيرجع العصر."}
+{"id": "dia072", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "سجلت لك البلاغ، والفريق بيوصلكم بأسرع وقت."}
+{"id": "dia073", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "الفاتورة طالعة مرتفعة لأن الاستهلاك زاد بالصيف."}
+{"id": "dia074", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تقدر تسدد من التطبيق وتخلص بدقيقة."}
+{"id": "dia075", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "شيك على القاطع الرئيسي قبل، يمكن طاح."}
+{"id": "dia076", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "أقدر أقسط لك المبلغ على ست دفعات."}
+{"id": "dia077", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "العداد الجديد يحتاج عشرة أيام عمل تقريبا."}
+{"id": "dia078", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "إذا فيه تسريب ماء، بلغنا على طول."}
+{"id": "dia079", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "رجعت الخدمة عندكم، تأكد وطمني."}
+{"id": "dia080", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "ترى العداد الذكي يقرا لحاله، ما يحتاج أحد يجيك."}
+{"id": "dia081", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "معليش طولت عليك، الحين معك على طول."}
+{"id": "dia082", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "خلني أحولك للمختص، هو اللي يقدر يفيدك أكثر."}
+{"id": "dia083", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "ما فهمت عليك زين، ممكن تعيد؟"}
+{"id": "dia084", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "أبشر، سجلت طلبك وبيردون عليك خلال يومين."}
+{"id": "dia085", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "تبي نتصل عليك بعدين بدل ما تنتظر؟"}
+{"id": "dia086", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "المكالمة ممكن تتسجل عشان الجودة، ما عندك مانع؟"}
+{"id": "dia087", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "كل شي تمام من جهتنا، إذا ودك بشي ثاني قول."}
+{"id": "dia088", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "مشكور على صبرك، والله إنك طولت بالك."}
+{"id": "dia089", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "بيجيك استبيان صغير بعد المكالمة، إذا تكرمت عبه."}
+{"id": "dia090", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "الله يحفظك، وأي وقت تحتاجنا كلمنا."}
+{"id": "dia091", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "ترى العرض ينتهي آخر الأسبوع، لا يفوتك."}
+{"id": "dia092", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "وش اسم الشبكة اللي يطلع لك بالجوال؟"}
+{"id": "dia093", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "تبيني أذكرك بالموعد برسالة؟"}
+{"id": "dia094", "register": "dialect", "subdialect": "najdi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المندوب واقف عند الباب الحين."}
+{"id": "dia095", "register": "dialect", "subdialect": "najdi", "domain": "general", "numform": "na", "entity_types": "", "text": "حياك الله، تفضل وش طلبك؟"}
+{"id": "dia096", "register": "dialect", "subdialect": "najdi", "domain": "banking", "numform": "na", "entity_types": "", "text": "السحب اليومي حقك ارتفع زي ما طلبت."}
+{"id": "dia097", "register": "dialect", "subdialect": "najdi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "الباقة الجديدة فيها نت أكثر وبنفس السعر تقريبا."}
+{"id": "dia098", "register": "dialect", "subdialect": "najdi", "domain": "health", "numform": "na", "entity_types": "", "text": "إذا ما تقدر تجي، نقدر نسويها استشارة فيديو."}
+{"id": "dia099", "register": "dialect", "subdialect": "najdi", "domain": "travel", "numform": "na", "entity_types": "", "text": "ودك نضيف لك شنطة زيادة؟"}
+{"id": "dia100", "register": "dialect", "subdialect": "najdi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "متى آخر مرة سددت الفاتورة؟"}
+{"id": "dia101", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "أهلين، معاك خدمة العملاء، إيش أقدر أساعدك؟"}
+{"id": "dia102", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "طيب يا عسل، خليني أشيك على حسابك دحين."}
+{"id": "dia103", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "البطاقة واقفة، عشان كدا العملية ما مشيت."}
+{"id": "dia104", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "لا تخاف، بنفعلها لك دحين وتقدر تستخدمها على طول."}
+{"id": "dia105", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "تبغى أحولك على قسم البطاقات ولا أكمل معاك؟"}
+{"id": "dia106", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "الحوالة طلعت، بس ممكن تتأخر شوية عشان الإجازة."}
+{"id": "dia107", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "معليش على الانتظار، الضغط اليوم كتير."}
+{"id": "dia108", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "تبغى أرسلك الكشف على الإيميل ولا على الجوال؟"}
+{"id": "dia109", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "إيش آخر عملية سويتها وانت متذكرها؟"}
+{"id": "dia110", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "لا تعطي الرمز لأي أحد، حتى لو قال إنه من البنك."}
+{"id": "dia111", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "خلاص، رجعنالك الفلوس وحتوصلك خلال يومين."}
+{"id": "dia112", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "لو تبغى تقسط، عندنا عرض حلو الشهر دا بدون رسوم."}
+{"id": "dia113", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "مافي داعي تروح الفرع، كل شي تقدر تسويه من التطبيق."}
+{"id": "dia114", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "شايف عملية غريبة، خليني أوقف البطاقة احتياط."}
+{"id": "dia115", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "يعطيك العافية، في شي تاني أقدر أساعدك فيه؟"}
+{"id": "dia116", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "أهلين، شكلك عندك مشكلة في النت؟"}
+{"id": "dia117", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "طفي الراوتر وشغله مرة تانية، وخلينا نشوف."}
+{"id": "dia118", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "الباقة حقتك خلصت، عشان كدا النت بطيء."}
+{"id": "dia119", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تبغى أجددلك الباقة دحين ولا تستنى لآخر الشهر؟"}
+{"id": "dia120", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "العطل عام في منطقتكم، والفنيين شغالين عليه."}
+{"id": "dia121", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "حيجيك الفني بكرة الصباح، بس خليك جنب الجوال."}
+{"id": "dia122", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "الفاتورة طالعة غالية عشان استخدمت التجوال برا."}
+{"id": "dia123", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "أقدر أقسملك المبلغ على دفعتين لو يناسبك."}
+{"id": "dia124", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "والله مافي رسوم على نقل الرقم، كلو ببلاش."}
+{"id": "dia125", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "خليني أرفعلك بلاغ، وحيتواصلوا معاك خلال يوم."}
+{"id": "dia126", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "إيش نوع جوالك؟ عشان أرسلك الإعدادات الصح."}
+{"id": "dia127", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تمام، الشريحة الجديدة حتوصلك على البيت."}
+{"id": "dia128", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "معليش، الرقم اللي تبغاه محجوز، أشوفلك رقم قريب منه؟"}
+{"id": "dia129", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "النت عندكم المفروض يكون أسرع من كدا بكتير."}
+{"id": "dia130", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "تم، لغيتلك الخدمة وما عاد حتنخصم."}
+{"id": "dia131", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "أهلين، تبغى تحجز موعد ولا تسأل عن موعد قديم؟"}
+{"id": "dia132", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "الدكتور مافي عنده مواعيد الأسبوع دا، أحطك في قائمة الانتظار؟"}
+{"id": "dia133", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "موعدك يوم الأحد الساعة عشرة الصباح، تعال قبلو بربع ساعة."}
+{"id": "dia134", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "لا تنسى تجيب كرت التأمين معاك."}
+{"id": "dia135", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "لو الحالة طارئة، لا تستنى، روح الطوارئ على طول."}
+{"id": "dia136", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "التحاليل طلعت، وتقدر تشوفها في التطبيق."}
+{"id": "dia137", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "لازم تصوم تمن ساعات قبل التحليل، يعني لا تفطر الصباح."}
+{"id": "dia138", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "أقدر أحولك الموعد لدكتور تاني بنفس التخصص."}
+{"id": "dia139", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "خليني أتأكد من ملفك وأرجعلك."}
+{"id": "dia140", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "الدوا يوصلك البيت لو تبغى، مو لازم تجي."}
+{"id": "dia141", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "معليش، العيادة مقفولة يوم الجمعة."}
+{"id": "dia142", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "طيب، من إمتى وانت حاسس بالتعب دا؟"}
+{"id": "dia143", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "حأرسلك رسالة تذكير قبل الموعد بيوم."}
+{"id": "dia144", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "الله يشفيك، ولو احتجت أي شي كلمنا."}
+{"id": "dia145", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "التقرير حيكون جاهز بعد تلات أيام إن شاء الله."}
+{"id": "dia146", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "طلبك طلع من المستودع، وحيوصلك العصر."}
+{"id": "dia147", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المندوب ما لقى البيت، ممكن ترسلي اللوكيشن؟"}
+{"id": "dia148", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لا تشيل هم، حنرجعلك فلوسك كاملة."}
+{"id": "dia149", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المنتج خلص عندنا، بس حنعلمك أول ما يتوفر."}
+{"id": "dia150", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تبغى نأجل التوصيل لبكرة؟ مافي مشكلة."}
+{"id": "dia151", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المندوب حيتصل عليك قبل ما يوصل بنص ساعة."}
+{"id": "dia152", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "لو الغرض جاك خربان، صوره وأرسلو لنا."}
+{"id": "dia153", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "الطلب انقسم شحنتين، التانية حتجيك بعدها بيوم."}
+{"id": "dia154", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "التوصيل ببلاش لو طلبك فوق مية وخمسين."}
+{"id": "dia155", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "خلاص لغيتلك الطلب، وما حينخصم شي."}
+{"id": "dia156", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "معليش على التأخير، الطرق اليوم زحمة عشان المطر."}
+{"id": "dia157", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تقدر تستلمو من أقرب نقطة استلام لو تبغى."}
+{"id": "dia158", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "إيش رقم الطلب الله يخليك؟"}
+{"id": "dia159", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المبلغ حيرجع على البطاقة خلال أسبوع تقريبا."}
+{"id": "dia160", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "تم، عدلتلك العنوان، والمندوب عنده العنوان الجديد."}
+{"id": "dia161", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "أهلين، رحلتك مأكدة، وبطاقة الصعود حتجيك على الإيميل."}
+{"id": "dia162", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الرحلة متأخرة ساعة، وإن شاء الله ما تتأخر أكتر."}
+{"id": "dia163", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "تبغى تغير الموعد؟ بس ترى في رسوم تعديل بسيطة."}
+{"id": "dia164", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الشنطة المسموحة تلاتة وعشرين كيلو، لا تزيد عليها."}
+{"id": "dia165", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "رحلتك انلغت، تبغى رحلة تانية ولا نرجعلك المبلغ؟"}
+{"id": "dia166", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "خليك عند البوابة قبل ما تقفل بعشرين دقيقة."}
+{"id": "dia167", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "خليني أشوفلك كرسي جنب الشباك."}
+{"id": "dia168", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "جوازك لازم يكون صالح ست شهور على الأقل."}
+{"id": "dia169", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "ضفتلك الأميال على حسابك."}
+{"id": "dia170", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "الفندق محجوز لك تلات ليالي، والفطور معاه."}
+{"id": "dia171", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "الكهربا مقطوعة عندكم عشان الصيانة، وحترجع العصر."}
+{"id": "dia172", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "سجلتلك البلاغ، والفريق حيوصلكم بأسرع وقت."}
+{"id": "dia173", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "الفاتورة طالعة عالية عشان الاستهلاك زاد في الصيف."}
+{"id": "dia174", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "تقدر تسدد من التطبيق وتخلص في دقيقة."}
+{"id": "dia175", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "شيك على القاطع الرئيسي أول، يمكن نزل."}
+{"id": "dia176", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "أقدر أقسطلك المبلغ على ست دفعات."}
+{"id": "dia177", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "العداد الجديد يبغاله عشرة أيام عمل تقريبا."}
+{"id": "dia178", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "لو في تسريب موية، بلغنا على طول."}
+{"id": "dia179", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "رجعت الخدمة عندكم، اتأكد وطمني."}
+{"id": "dia180", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "ترى العداد الذكي يقرا لوحده، مو محتاج أحد يجيك."}
+{"id": "dia181", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "معليش طولت عليك، دحين معاك على طول."}
+{"id": "dia182", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "خليني أحولك للمختص، هو اللي يقدر يفيدك أكتر."}
+{"id": "dia183", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "ما فهمت عليك كويس، ممكن تعيد؟"}
+{"id": "dia184", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "تم، سجلت طلبك وحيردوا عليك خلال يومين."}
+{"id": "dia185", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "تبغى نتصل عليك بعدين بدل ما تستنى؟"}
+{"id": "dia186", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "المكالمة ممكن تتسجل عشان الجودة، عندك مانع؟"}
+{"id": "dia187", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "كل شي تمام من جهتنا، لو تبغى شي تاني قول."}
+{"id": "dia188", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "شكرا على صبرك، والله إنك طولت بالك."}
+{"id": "dia189", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "حيجيك استبيان صغير بعد المكالمة، لو تكرمت عبيه."}
+{"id": "dia190", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "الله يخليك، وأي وقت تحتاجنا كلمنا."}
+{"id": "dia191", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "ترى العرض يخلص آخر الأسبوع، لا يفوتك."}
+{"id": "dia192", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "إيش اسم الشبكة اللي تطلعلك في الجوال؟"}
+{"id": "dia193", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "تبغاني أذكرك بالموعد برسالة؟"}
+{"id": "dia194", "register": "dialect", "subdialect": "hijazi", "domain": "delivery", "numform": "na", "entity_types": "", "text": "المندوب واقف عند الباب دحين."}
+{"id": "dia195", "register": "dialect", "subdialect": "hijazi", "domain": "general", "numform": "na", "entity_types": "", "text": "يا هلا، اتفضل إيش طلبك؟"}
+{"id": "dia196", "register": "dialect", "subdialect": "hijazi", "domain": "banking", "numform": "na", "entity_types": "", "text": "السحب اليومي حقك زاد زي ما طلبت."}
+{"id": "dia197", "register": "dialect", "subdialect": "hijazi", "domain": "telecom", "numform": "na", "entity_types": "", "text": "الباقة الجديدة فيها نت أكتر وبنفس السعر تقريبا."}
+{"id": "dia198", "register": "dialect", "subdialect": "hijazi", "domain": "health", "numform": "na", "entity_types": "", "text": "لو ما تقدر تجي، نقدر نسويها استشارة فيديو."}
+{"id": "dia199", "register": "dialect", "subdialect": "hijazi", "domain": "travel", "numform": "na", "entity_types": "", "text": "تبغانا نضيفلك شنطة زيادة؟"}
+{"id": "dia200", "register": "dialect", "subdialect": "hijazi", "domain": "utilities", "numform": "na", "entity_types": "", "text": "إمتى آخر مرة سددت الفاتورة؟"}
+{"id": "ent001_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 373 ريالا."}
+{"id": "ent001_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو ثلاثمائة وثلاثة وسبعون ريالا."}
+{"id": "ent002_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 480 ريالا من رصيدكم."}
+{"id": "ent002_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم أربعمائة وثمانون ريالا من رصيدكم."}
+{"id": "ent003_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 672 ريالا قبل 22 مارس."}
+{"id": "ent003_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ ستمائة واثنان وسبعون ريالا قبل اثنان وعشرون مارس."}
+{"id": "ent004_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500080823."}
+{"id": "ent004_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر ثمانية صفر ثمانية اثنين ثلاثة."}
+{"id": "ent005_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1851288376."}
+{"id": "ent005_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد ثمانية خمسة واحد اثنين ثمانية ثمانية ثلاثة سبعة ستة."}
+{"id": "ent006_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 47805369، يرجى الاحتفاظ به."}
+{"id": "ent006_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو أربعة سبعة ثمانية صفر خمسة ثلاثة ستة تسعة، يرجى الاحتفاظ به."}
+{"id": "ent007_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 16 يوليو 2027 الساعة 7."}
+{"id": "ent007_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم ستة عشر يوليو ألفان وسبعة وعشرون الساعة سبعة."}
+{"id": "ent008_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 6 وتستمر 20 دقيقة."}
+{"id": "ent008_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة ستة وتستمر عشرون دقيقة."}
+{"id": "ent009_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ أروى الشمري."}
+{"id": "ent010_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 23774875 باسم هيفاء الغامدي."}
+{"id": "ent010_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم اثنين ثلاثة سبعة سبعة أربعة ثمانية سبعة خمسة باسم هيفاء الغامدي."}
+{"id": "ent011_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Mada Pay بكل سهولة."}
+{"id": "ent012_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز PIN المرسل إلى جوالكم."}
+{"id": "ent013_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 741 ريال، تبي تسددها الحين؟"}
+{"id": "ent013_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك سبعمائة وواحد وأربعون ريال، تبي تسددها الحين؟"}
+{"id": "ent014_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 9892 ريال على البطاقة."}
+{"id": "ent014_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك تسعة آلاف وثمانمائة واثنان وتسعون ريال على البطاقة."}
+{"id": "ent015_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500014609، صح؟"}
+{"id": "ent015_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر واحد أربعة ستة صفر تسعة، صح؟"}
+{"id": "ent016_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1567405530 صح؟"}
+{"id": "ent016_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد خمسة ستة سبعة أربعة صفر خمسة خمسة ثلاثة صفر صح؟"}
+{"id": "ent017_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 48422789، وبيوصلك بكرة."}
+{"id": "ent017_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه أربعة ثمانية أربعة اثنين اثنين سبعة ثمانية تسعة، وبيوصلك بكرة."}
+{"id": "ent018_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 23 ديسمبر الساعة 5."}
+{"id": "ent018_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم ثلاثة وعشرون ديسمبر الساعة خمسة."}
+{"id": "ent019_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ ماجد السبيعي، وش أقدر أخدمك؟"}
+{"id": "ent020_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل 5G من الإعدادات وبيزبط معك."}
+{"id": "ent021_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 940 ريال، تبغى تسددها دحين؟"}
+{"id": "ent021_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك تسعمائة وأربعون ريال، تبغى تسددها دحين؟"}
+{"id": "ent022_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500060721، صح؟"}
+{"id": "ent022_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر ستة صفر سبعة اثنين واحد، صح؟"}
+{"id": "ent023_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1859462084 صح؟"}
+{"id": "ent023_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد ثمانية خمسة تسعة أربعة ستة اثنين صفر ثمانية أربعة صح؟"}
+{"id": "ent024_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 86035490، وحيوصلك بكرة."}
+{"id": "ent024_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو ثمانية ستة صفر ثلاثة خمسة أربعة تسعة صفر، وحيوصلك بكرة."}
+{"id": "ent025_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 28 مارس الساعة 1."}
+{"id": "ent025_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم ثمانية وعشرون مارس الساعة واحد."}
+{"id": "ent026_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة نورة القحطاني، إيش أقدر أساعدك؟"}
+{"id": "ent027_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل Bluetooth من الإعدادات وحيمشي معاك."}
+{"id": "ent028_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 3327 ريالا."}
+{"id": "ent028_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو ثلاثة آلاف وثلاثمائة وسبعة وعشرون ريالا."}
+{"id": "ent029_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 913 ريالا من رصيدكم."}
+{"id": "ent029_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم تسعمائة وثلاثة عشر ريالا من رصيدكم."}
+{"id": "ent030_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 10106 ريالا قبل 25 فبراير."}
+{"id": "ent030_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ عشرة آلاف ومائة وستة ريالا قبل خمسة وعشرون فبراير."}
+{"id": "ent031_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500073033."}
+{"id": "ent031_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر سبعة ثلاثة صفر ثلاثة ثلاثة."}
+{"id": "ent032_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1711064825."}
+{"id": "ent032_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد سبعة واحد واحد صفر ستة أربعة ثمانية اثنين خمسة."}
+{"id": "ent033_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 35772575، يرجى الاحتفاظ به."}
+{"id": "ent033_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو ثلاثة خمسة سبعة سبعة اثنين خمسة سبعة خمسة، يرجى الاحتفاظ به."}
+{"id": "ent034_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 18 يوليو 2027 الساعة 1."}
+{"id": "ent034_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم ثمانية عشر يوليو ألفان وسبعة وعشرون الساعة واحد."}
+{"id": "ent035_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 9 وتستمر 20 دقيقة."}
+{"id": "ent035_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة تسعة وتستمر عشرون دقيقة."}
+{"id": "ent036_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ جواهر الرشيد."}
+{"id": "ent037_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 06865636 باسم بندر العنزي."}
+{"id": "ent037_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم صفر ستة ثمانية ستة خمسة ستة ثلاثة ستة باسم بندر العنزي."}
+{"id": "ent038_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر STC Pay بكل سهولة."}
+{"id": "ent039_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز QR المرسل إلى جوالكم."}
+{"id": "ent040_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 544 ريال، تبي تسددها الحين؟"}
+{"id": "ent040_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك خمسمائة وأربعة وأربعون ريال، تبي تسددها الحين؟"}
+{"id": "ent041_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 735 ريال على البطاقة."}
+{"id": "ent041_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك سبعمائة وخمسة وثلاثون ريال على البطاقة."}
+{"id": "ent042_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500080975، صح؟"}
+{"id": "ent042_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر ثمانية صفر تسعة سبعة خمسة، صح؟"}
+{"id": "ent043_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1091245990 صح؟"}
+{"id": "ent043_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد صفر تسعة واحد اثنين أربعة خمسة تسعة تسعة صفر صح؟"}
+{"id": "ent044_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 86482077، وبيوصلك بكرة."}
+{"id": "ent044_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه ثمانية ستة أربعة ثمانية اثنين صفر سبعة سبعة، وبيوصلك بكرة."}
+{"id": "ent045_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 3 يوليو الساعة 10."}
+{"id": "ent045_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم ثلاثة يوليو الساعة عشرة."}
+{"id": "ent046_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ ماجد السبيعي، وش أقدر أخدمك؟"}
+{"id": "ent047_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل Face ID من الإعدادات وبيزبط معك."}
+{"id": "ent048_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 17379 ريال، تبغى تسددها دحين؟"}
+{"id": "ent048_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك سبعة عشر ألفا وثلاثمائة وتسعة وسبعون ريال، تبغى تسددها دحين؟"}
+{"id": "ent049_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500077855، صح؟"}
+{"id": "ent049_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر سبعة سبعة ثمانية خمسة خمسة، صح؟"}
+{"id": "ent050_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1069234234 صح؟"}
+{"id": "ent050_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد صفر ستة تسعة اثنين ثلاثة أربعة اثنين ثلاثة أربعة صح؟"}
+{"id": "ent051_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 57434478، وحيوصلك بكرة."}
+{"id": "ent051_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو خمسة سبعة أربعة ثلاثة أربعة أربعة سبعة ثمانية، وحيوصلك بكرة."}
+{"id": "ent052_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 14 أبريل الساعة 4."}
+{"id": "ent052_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم أربعة عشر أبريل الساعة أربعة."}
+{"id": "ent053_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة نورة القحطاني، إيش أقدر أساعدك؟"}
+{"id": "ent054_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل 5G من الإعدادات وحيمشي معاك."}
+{"id": "ent055_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 113 ريالا."}
+{"id": "ent055_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو مائة وثلاثة عشر ريالا."}
+{"id": "ent056_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 23840 ريالا من رصيدكم."}
+{"id": "ent056_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم ثلاثة وعشرون ألفا وثمانمائة وأربعون ريالا من رصيدكم."}
+{"id": "ent057_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 12666 ريالا قبل 14 سبتمبر."}
+{"id": "ent057_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ اثنا عشر ألفا وستمائة وستة وستون ريالا قبل أربعة عشر سبتمبر."}
+{"id": "ent058_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500060773."}
+{"id": "ent058_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر ستة صفر سبعة سبعة ثلاثة."}
+{"id": "ent059_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1488734166."}
+{"id": "ent059_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد أربعة ثمانية ثمانية سبعة ثلاثة أربعة واحد ستة ستة."}
+{"id": "ent060_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 89010997، يرجى الاحتفاظ به."}
+{"id": "ent060_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو ثمانية تسعة صفر واحد صفر تسعة تسعة سبعة، يرجى الاحتفاظ به."}
+{"id": "ent061_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 12 يناير 2026 الساعة 11."}
+{"id": "ent061_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم اثنا عشر يناير ألفان وستة وعشرون الساعة أحد عشر."}
+{"id": "ent062_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 10 وتستمر 90 دقيقة."}
+{"id": "ent062_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة عشرة وتستمر تسعون دقيقة."}
+{"id": "ent063_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ ماجد السبيعي."}
+{"id": "ent064_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 85448319 باسم أروى الشمري."}
+{"id": "ent064_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم ثمانية خمسة أربعة أربعة ثمانية ثلاثة واحد تسعة باسم أروى الشمري."}
+{"id": "ent065_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Apple Pay بكل سهولة."}
+{"id": "ent066_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز PIN المرسل إلى جوالكم."}
+{"id": "ent067_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 5101 ريال، تبي تسددها الحين؟"}
+{"id": "ent067_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك خمسة آلاف ومائة وواحد ريال، تبي تسددها الحين؟"}
+{"id": "ent068_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 577 ريال على البطاقة."}
+{"id": "ent068_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك خمسمائة وسبعة وسبعون ريال على البطاقة."}
+{"id": "ent069_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500001537، صح؟"}
+{"id": "ent069_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر صفر واحد خمسة ثلاثة سبعة، صح؟"}
+{"id": "ent070_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1719029669 صح؟"}
+{"id": "ent070_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد سبعة واحد تسعة صفر اثنين تسعة ستة ستة تسعة صح؟"}
+{"id": "ent071_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 81787479، وبيوصلك بكرة."}
+{"id": "ent071_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه ثمانية واحد سبعة ثمانية سبعة أربعة سبعة تسعة، وبيوصلك بكرة."}
+{"id": "ent072_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 14 سبتمبر الساعة 5."}
+{"id": "ent072_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم أربعة عشر سبتمبر الساعة خمسة."}
+{"id": "ent073_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ تركي المطيري، وش أقدر أخدمك؟"}
+{"id": "ent074_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل 5G من الإعدادات وبيزبط معك."}
+{"id": "ent075_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 21750 ريال، تبغى تسددها دحين؟"}
+{"id": "ent075_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك واحد وعشرون ألفا وسبعمائة وخمسون ريال، تبغى تسددها دحين؟"}
+{"id": "ent076_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500054457، صح؟"}
+{"id": "ent076_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر خمسة أربعة أربعة خمسة سبعة، صح؟"}
+{"id": "ent077_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1945922149 صح؟"}
+{"id": "ent077_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد تسعة أربعة خمسة تسعة اثنين اثنين واحد أربعة تسعة صح؟"}
+{"id": "ent078_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 58956080، وحيوصلك بكرة."}
+{"id": "ent078_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو خمسة ثمانية تسعة خمسة ستة صفر ثمانية صفر، وحيوصلك بكرة."}
+{"id": "ent079_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 12 أبريل الساعة 6."}
+{"id": "ent079_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم اثنا عشر أبريل الساعة ستة."}
+{"id": "ent080_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة أروى الشمري، إيش أقدر أساعدك؟"}
+{"id": "ent081_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل Face ID من الإعدادات وحيمشي معاك."}
+{"id": "ent082_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 21298 ريالا."}
+{"id": "ent082_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو واحد وعشرون ألفا ومئتان وثمانية وتسعون ريالا."}
+{"id": "ent083_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 535 ريالا من رصيدكم."}
+{"id": "ent083_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم خمسمائة وخمسة وثلاثون ريالا من رصيدكم."}
+{"id": "ent084_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 12159 ريالا قبل 25 يناير."}
+{"id": "ent084_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ اثنا عشر ألفا ومائة وتسعة وخمسون ريالا قبل خمسة وعشرون يناير."}
+{"id": "ent085_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500022881."}
+{"id": "ent085_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر اثنين اثنين ثمانية ثمانية واحد."}
+{"id": "ent086_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1890542258."}
+{"id": "ent086_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد ثمانية تسعة صفر خمسة أربعة اثنين اثنين خمسة ثمانية."}
+{"id": "ent087_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 81214969، يرجى الاحتفاظ به."}
+{"id": "ent087_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو ثمانية واحد اثنين واحد أربعة تسعة ستة تسعة، يرجى الاحتفاظ به."}
+{"id": "ent088_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 28 ديسمبر 2027 الساعة 6."}
+{"id": "ent088_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم ثمانية وعشرون ديسمبر ألفان وسبعة وعشرون الساعة ستة."}
+{"id": "ent089_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 9 وتستمر 45 دقيقة."}
+{"id": "ent089_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة تسعة وتستمر خمسة وأربعون دقيقة."}
+{"id": "ent090_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ نورة القحطاني."}
+{"id": "ent091_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 98995396 باسم تركي المطيري."}
+{"id": "ent091_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم تسعة ثمانية تسعة تسعة خمسة ثلاثة تسعة ستة باسم تركي المطيري."}
+{"id": "ent092_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Mada Pay بكل سهولة."}
+{"id": "ent093_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز QR المرسل إلى جوالكم."}
+{"id": "ent094_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 12974 ريال، تبي تسددها الحين؟"}
+{"id": "ent094_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك اثنا عشر ألفا وتسعمائة وأربعة وسبعون ريال، تبي تسددها الحين؟"}
+{"id": "ent095_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 16624 ريال على البطاقة."}
+{"id": "ent095_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك ستة عشر ألفا وستمائة وأربعة وعشرون ريال على البطاقة."}
+{"id": "ent096_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500097834، صح؟"}
+{"id": "ent096_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر تسعة سبعة ثمانية ثلاثة أربعة، صح؟"}
+{"id": "ent097_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1674250664 صح؟"}
+{"id": "ent097_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد ستة سبعة أربعة اثنين خمسة صفر ستة ستة أربعة صح؟"}
+{"id": "ent098_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 13441759، وبيوصلك بكرة."}
+{"id": "ent098_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه واحد ثلاثة أربعة أربعة واحد سبعة خمسة تسعة، وبيوصلك بكرة."}
+{"id": "ent099_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 21 أغسطس الساعة 5."}
+{"id": "ent099_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم واحد وعشرون أغسطس الساعة خمسة."}
+{"id": "ent100_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ عبدالله العتيبي، وش أقدر أخدمك؟"}
+{"id": "ent101_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل Wi-Fi من الإعدادات وبيزبط معك."}
+{"id": "ent102_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 407 ريال، تبغى تسددها دحين؟"}
+{"id": "ent102_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك أربعمائة وسبعة ريال، تبغى تسددها دحين؟"}
+{"id": "ent103_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500050391، صح؟"}
+{"id": "ent103_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر خمسة صفر ثلاثة تسعة واحد، صح؟"}
+{"id": "ent104_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1824475574 صح؟"}
+{"id": "ent104_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد ثمانية اثنين أربعة أربعة سبعة خمسة خمسة سبعة أربعة صح؟"}
+{"id": "ent105_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 63091547، وحيوصلك بكرة."}
+{"id": "ent105_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو ستة ثلاثة صفر تسعة واحد خمسة أربعة سبعة، وحيوصلك بكرة."}
+{"id": "ent106_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 22 سبتمبر الساعة 6."}
+{"id": "ent106_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم اثنان وعشرون سبتمبر الساعة ستة."}
+{"id": "ent107_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة بندر العنزي، إيش أقدر أساعدك؟"}
+{"id": "ent108_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل Face ID من الإعدادات وحيمشي معاك."}
+{"id": "ent109_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 251 ريالا."}
+{"id": "ent109_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو مئتان وواحد وخمسون ريالا."}
+{"id": "ent110_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 5990 ريالا من رصيدكم."}
+{"id": "ent110_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم خمسة آلاف وتسعمائة وتسعون ريالا من رصيدكم."}
+{"id": "ent111_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 893 ريالا قبل 13 أغسطس."}
+{"id": "ent111_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ ثمانمائة وثلاثة وتسعون ريالا قبل ثلاثة عشر أغسطس."}
+{"id": "ent112_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500016347."}
+{"id": "ent112_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر واحد ستة ثلاثة أربعة سبعة."}
+{"id": "ent113_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1328051841."}
+{"id": "ent113_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد ثلاثة اثنين ثمانية صفر خمسة واحد ثمانية أربعة واحد."}
+{"id": "ent114_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 48207165، يرجى الاحتفاظ به."}
+{"id": "ent114_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو أربعة ثمانية اثنين صفر سبعة واحد ستة خمسة، يرجى الاحتفاظ به."}
+{"id": "ent115_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 25 نوفمبر 2027 الساعة 7."}
+{"id": "ent115_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم خمسة وعشرون نوفمبر ألفان وسبعة وعشرون الساعة سبعة."}
+{"id": "ent116_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 3 وتستمر 15 دقيقة."}
+{"id": "ent116_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة ثلاثة وتستمر خمسة عشر دقيقة."}
+{"id": "ent117_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ سلطان الحربي."}
+{"id": "ent118_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 09030286 باسم عبدالله العتيبي."}
+{"id": "ent118_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم صفر تسعة صفر ثلاثة صفر اثنين ثمانية ستة باسم عبدالله العتيبي."}
+{"id": "ent119_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Visa بكل سهولة."}
+{"id": "ent120_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز QR المرسل إلى جوالكم."}
+{"id": "ent121_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 23344 ريال، تبي تسددها الحين؟"}
+{"id": "ent121_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك ثلاثة وعشرون ألفا وثلاثمائة وأربعة وأربعون ريال، تبي تسددها الحين؟"}
+{"id": "ent122_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 760 ريال على البطاقة."}
+{"id": "ent122_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك سبعمائة وستون ريال على البطاقة."}
+{"id": "ent123_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500076960، صح؟"}
+{"id": "ent123_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر سبعة ستة تسعة ستة صفر، صح؟"}
+{"id": "ent124_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1473802386 صح؟"}
+{"id": "ent124_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد أربعة سبعة ثلاثة ثمانية صفر اثنين ثلاثة ثمانية ستة صح؟"}
+{"id": "ent125_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 10570455، وبيوصلك بكرة."}
+{"id": "ent125_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه واحد صفر خمسة سبعة صفر أربعة خمسة خمسة، وبيوصلك بكرة."}
+{"id": "ent126_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 14 نوفمبر الساعة 7."}
+{"id": "ent126_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم أربعة عشر نوفمبر الساعة سبعة."}
+{"id": "ent127_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ عبدالله العتيبي، وش أقدر أخدمك؟"}
+{"id": "ent128_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل Bluetooth من الإعدادات وبيزبط معك."}
+{"id": "ent129_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 934 ريال، تبغى تسددها دحين؟"}
+{"id": "ent129_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك تسعمائة وأربعة وثلاثون ريال، تبغى تسددها دحين؟"}
+{"id": "ent130_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500094259، صح؟"}
+{"id": "ent130_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر تسعة أربعة اثنين خمسة تسعة، صح؟"}
+{"id": "ent131_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1972043254 صح؟"}
+{"id": "ent131_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد تسعة سبعة اثنين صفر أربعة ثلاثة اثنين خمسة أربعة صح؟"}
+{"id": "ent132_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 99370164، وحيوصلك بكرة."}
+{"id": "ent132_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو تسعة تسعة ثلاثة سبعة صفر واحد ستة أربعة، وحيوصلك بكرة."}
+{"id": "ent133_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 16 مايو الساعة 11."}
+{"id": "ent133_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم ستة عشر مايو الساعة أحد عشر."}
+{"id": "ent134_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة لمى الزهراني، إيش أقدر أساعدك؟"}
+{"id": "ent135_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل 5G من الإعدادات وحيمشي معاك."}
+{"id": "ent136_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 15156 ريالا."}
+{"id": "ent136_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو خمسة عشر ألفا ومائة وستة وخمسون ريالا."}
+{"id": "ent137_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 423 ريالا من رصيدكم."}
+{"id": "ent137_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم أربعمائة وثلاثة وعشرون ريالا من رصيدكم."}
+{"id": "ent138_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 5031 ريالا قبل 15 أكتوبر."}
+{"id": "ent138_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ خمسة آلاف وواحد وثلاثون ريالا قبل خمسة عشر أكتوبر."}
+{"id": "ent139_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500051016."}
+{"id": "ent139_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر خمسة واحد صفر واحد ستة."}
+{"id": "ent140_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1075247856."}
+{"id": "ent140_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد صفر سبعة خمسة اثنين أربعة سبعة ثمانية خمسة ستة."}
+{"id": "ent141_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 04404192، يرجى الاحتفاظ به."}
+{"id": "ent141_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو صفر أربعة أربعة صفر أربعة واحد تسعة اثنين، يرجى الاحتفاظ به."}
+{"id": "ent142_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 12 سبتمبر 2027 الساعة 3."}
+{"id": "ent142_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم اثنا عشر سبتمبر ألفان وسبعة وعشرون الساعة ثلاثة."}
+{"id": "ent143_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 6 وتستمر 15 دقيقة."}
+{"id": "ent143_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة ستة وتستمر خمسة عشر دقيقة."}
+{"id": "ent144_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ ريم الدوسري."}
+{"id": "ent145_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 22924384 باسم بندر العنزي."}
+{"id": "ent145_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم اثنين اثنين تسعة اثنين أربعة ثلاثة ثمانية أربعة باسم بندر العنزي."}
+{"id": "ent146_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Visa بكل سهولة."}
+{"id": "ent147_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز PIN المرسل إلى جوالكم."}
+{"id": "ent148_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 21494 ريال، تبي تسددها الحين؟"}
+{"id": "ent148_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك واحد وعشرون ألفا وأربعمائة وأربعة وتسعون ريال، تبي تسددها الحين؟"}
+{"id": "ent149_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 627 ريال على البطاقة."}
+{"id": "ent149_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك ستمائة وسبعة وعشرون ريال على البطاقة."}
+{"id": "ent150_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500025893، صح؟"}
+{"id": "ent150_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر اثنين خمسة ثمانية تسعة ثلاثة، صح؟"}
+{"id": "ent151_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1526577448 صح؟"}
+{"id": "ent151_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد خمسة اثنين ستة خمسة سبعة سبعة أربعة أربعة ثمانية صح؟"}
+{"id": "ent152_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 67247555، وبيوصلك بكرة."}
+{"id": "ent152_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه ستة سبعة اثنين أربعة سبعة خمسة خمسة خمسة، وبيوصلك بكرة."}
+{"id": "ent153_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 1 مايو الساعة 5."}
+{"id": "ent153_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم واحد مايو الساعة خمسة."}
+{"id": "ent154_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ نورة القحطاني، وش أقدر أخدمك؟"}
+{"id": "ent155_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل Face ID من الإعدادات وبيزبط معك."}
+{"id": "ent156_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 525 ريال، تبغى تسددها دحين؟"}
+{"id": "ent156_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك خمسمائة وخمسة وعشرون ريال، تبغى تسددها دحين؟"}
+{"id": "ent157_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500050074، صح؟"}
+{"id": "ent157_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر خمسة صفر صفر سبعة أربعة، صح؟"}
+{"id": "ent158_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1072071411 صح؟"}
+{"id": "ent158_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد صفر سبعة اثنين صفر سبعة واحد أربعة واحد واحد صح؟"}
+{"id": "ent159_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 43654223، وحيوصلك بكرة."}
+{"id": "ent159_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو أربعة ثلاثة ستة خمسة أربعة اثنين اثنين ثلاثة، وحيوصلك بكرة."}
+{"id": "ent160_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 21 نوفمبر الساعة 11."}
+{"id": "ent160_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم واحد وعشرون نوفمبر الساعة أحد عشر."}
+{"id": "ent161_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة لمى الزهراني، إيش أقدر أساعدك؟"}
+{"id": "ent162_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل Bluetooth من الإعدادات وحيمشي معاك."}
+{"id": "ent163_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 14619 ريالا."}
+{"id": "ent163_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو أربعة عشر ألفا وستمائة وتسعة عشر ريالا."}
+{"id": "ent164_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 850 ريالا من رصيدكم."}
+{"id": "ent164_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم ثمانمائة وخمسون ريالا من رصيدكم."}
+{"id": "ent165_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 17609 ريالا قبل 6 يونيو."}
+{"id": "ent165_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ سبعة عشر ألفا وستمائة وتسعة ريالا قبل ستة يونيو."}
+{"id": "ent166_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500056785."}
+{"id": "ent166_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر خمسة ستة سبعة ثمانية خمسة."}
+{"id": "ent167_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1778406537."}
+{"id": "ent167_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد سبعة سبعة ثمانية أربعة صفر ستة خمسة ثلاثة سبعة."}
+{"id": "ent168_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 87964886، يرجى الاحتفاظ به."}
+{"id": "ent168_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو ثمانية سبعة تسعة ستة أربعة ثمانية ثمانية ستة، يرجى الاحتفاظ به."}
+{"id": "ent169_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 2 يناير 2027 الساعة 6."}
+{"id": "ent169_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم اثنان يناير ألفان وسبعة وعشرون الساعة ستة."}
+{"id": "ent170_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 5 وتستمر 90 دقيقة."}
+{"id": "ent170_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة خمسة وتستمر تسعون دقيقة."}
+{"id": "ent171_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ فهد الشهري."}
+{"id": "ent172_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 77187701 باسم ريم الدوسري."}
+{"id": "ent172_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم سبعة سبعة واحد ثمانية سبعة سبعة صفر واحد باسم ريم الدوسري."}
+{"id": "ent173_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Mada Pay بكل سهولة."}
+{"id": "ent174_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يرجى إدخال رمز QR المرسل إلى جوالكم."}
+{"id": "ent175_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 20164 ريال، تبي تسددها الحين؟"}
+{"id": "ent175_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك عشرون ألفا ومائة وأربعة وستون ريال، تبي تسددها الحين؟"}
+{"id": "ent176_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "رجعنا لك 828 ريال على البطاقة."}
+{"id": "ent176_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "رجعنا لك ثمانمائة وثمانية وعشرون ريال على البطاقة."}
+{"id": "ent177_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "بنتصل عليك على الرقم 0500028784، صح؟"}
+{"id": "ent177_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "بنتصل عليك على الرقم صفر خمسة صفر صفر صفر اثنين ثمانية سبعة ثمانية أربعة، صح؟"}
+{"id": "ent178_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، 1234607925 صح؟"}
+{"id": "ent178_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "عطني رقم الهوية الله يحفظك، واحد اثنين ثلاثة أربعة ستة صفر سبعة تسعة اثنين خمسة صح؟"}
+{"id": "ent179_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمه 29462974، وبيوصلك بكرة."}
+{"id": "ent179_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمه اثنين تسعة أربعة ستة اثنين تسعة سبعة أربعة، وبيوصلك بكرة."}
+{"id": "ent180_d", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 8 يوليو الساعة 12."}
+{"id": "ent180_s", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم ثمانية يوليو الساعة اثنا عشر."}
+{"id": "ent181_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "هلا أستاذ ريم الدوسري، وش أقدر أخدمك؟"}
+{"id": "ent182_n", "register": "entity", "subdialect": "najdi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "فعل Bluetooth من الإعدادات وبيزبط معك."}
+{"id": "ent183_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "عليك 22755 ريال، تبغى تسددها دحين؟"}
+{"id": "ent183_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "عليك اثنان وعشرون ألفا وسبعمائة وخمسة وخمسون ريال، تبغى تسددها دحين؟"}
+{"id": "ent184_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "حنتصل عليك على الرقم 0500057293، صح؟"}
+{"id": "ent184_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "حنتصل عليك على الرقم صفر خمسة صفر صفر صفر خمسة سبعة اثنين تسعة ثلاثة، صح؟"}
+{"id": "ent185_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "ممكن رقم الهوية؟ 1223526059 صح؟"}
+{"id": "ent185_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "ممكن رقم الهوية؟ واحد اثنين اثنين ثلاثة خمسة اثنين ستة صفر خمسة تسعة صح؟"}
+{"id": "ent186_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "طلبك رقمو 38377675، وحيوصلك بكرة."}
+{"id": "ent186_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "طلبك رقمو ثلاثة ثمانية ثلاثة سبعة سبعة ستة سبعة خمسة، وحيوصلك بكرة."}
+{"id": "ent187_d", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدك يوم 15 مايو الساعة 5."}
+{"id": "ent187_s", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدك يوم خمسة عشر مايو الساعة خمسة."}
+{"id": "ent188_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "أهلين أستاذة ماجد السبيعي، إيش أقدر أساعدك؟"}
+{"id": "ent189_n", "register": "entity", "subdialect": "hijazi", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "شغل Bluetooth من الإعدادات وحيمشي معاك."}
+{"id": "ent190_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو 765 ريالا."}
+{"id": "ent190_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "المبلغ المستحق على حسابكم هو سبعمائة وخمسة وستون ريالا."}
+{"id": "ent191_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount", "text": "تم خصم 5160 ريالا من رصيدكم."}
+{"id": "ent191_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount", "text": "تم خصم خمسة آلاف ومائة وستون ريالا من رصيدكم."}
+{"id": "ent192_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "amount,date", "text": "يرجى سداد مبلغ 3192 ريالا قبل 12 أكتوبر."}
+{"id": "ent192_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "amount,date", "text": "يرجى سداد مبلغ ثلاثة آلاف ومائة واثنان وتسعون ريالا قبل اثنا عشر أكتوبر."}
+{"id": "ent193_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم 0500024852."}
+{"id": "ent193_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "phone", "text": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر اثنين أربعة ثمانية خمسة اثنين."}
+{"id": "ent194_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية 1696202791."}
+{"id": "ent194_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "id", "text": "يرجى التأكد من رقم الهوية واحد ستة تسعة ستة اثنين صفر اثنين سبعة تسعة واحد."}
+{"id": "ent195_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "order", "text": "رقم طلبكم هو 89525376، يرجى الاحتفاظ به."}
+{"id": "ent195_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "order", "text": "رقم طلبكم هو ثمانية تسعة خمسة اثنين خمسة ثلاثة سبعة ستة، يرجى الاحتفاظ به."}
+{"id": "ent196_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "date,time", "text": "موعدكم يوم 22 يوليو 2026 الساعة 9."}
+{"id": "ent196_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "date,time", "text": "موعدكم يوم اثنان وعشرون يوليو ألفان وستة وعشرون الساعة تسعة."}
+{"id": "ent197_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "time", "text": "تبدأ الصيانة الساعة 5 وتستمر 45 دقيقة."}
+{"id": "ent197_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "time", "text": "تبدأ الصيانة الساعة خمسة وتستمر خمسة وأربعون دقيقة."}
+{"id": "ent198_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "name", "text": "يسعدنا خدمتكم يا أستاذ سلطان الحربي."}
+{"id": "ent199_d", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "digits", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم 47915704 باسم لمى الزهراني."}
+{"id": "ent199_s", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "spelled", "entity_types": "name,order", "text": "تم تسجيل الطلب رقم أربعة سبعة تسعة واحد خمسة سبعة صفر أربعة باسم لمى الزهراني."}
+{"id": "ent200_n", "register": "entity", "subdialect": "msa", "domain": "mixed", "numform": "na", "entity_types": "english", "text": "يمكنكم الدفع عبر Mada Pay بكل سهولة."}

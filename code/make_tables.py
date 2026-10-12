@@ -5,7 +5,7 @@ in the paper is typed by hand. All CERs are per-clip CER capped at 1.0 (see s07)
 Paired tests: per (model, ASR, channel), every diacritized condition vs raw on the same sentence and voice;
 mean difference with a 10,000-sample paired bootstrap 95% CI, two-sided Wilcoxon signed-rank, Holm-corrected
 over the conditions of that family.
-Usage: python make_tables.py --root . --out paper_tables
+Usage: python make_tables.py --root /data/tashkeel_study --out paper_tables
 """
 import argparse, json, statistics
 from pathlib import Path
@@ -88,7 +88,7 @@ def table_main(df, out):
         "TTS model & Raw & Full & No-case & Shadda & FT-full\\\\\n" + body + "\n\\bottomrule\\end{tabular}\n"
         "\\caption{Mean CER (\\%) over all 749 sentences, per text condition. $^{\\uparrow}$/$^{\\downarrow}$: "
         "significantly worse/better than Raw (paired Wilcoxon, Holm-corrected over the four conditions, "
-        "$p<0.05$). Full, No-case and Shadda come from CATT; FT-full from Fine-Tashkeel.}\\label{tab:main}\n"
+        "$p<0.05$). Full, No-case and Shadda come from CATT, and FT-full comes from Fine-Tashkeel.}\\label{tab:main}\n"
         "\\end{table}\n")
 
 
@@ -243,8 +243,8 @@ def latency(root, out):
         v = [json.loads(l)[key] for l in open(path)]
         return statistics.median(v), statistics.quantiles(v, n=20)[18]
     g = med(root / "testset/diac.jsonl", "catt_ms")
-    c8 = med(root / "results/latency/catt_cpu8.jsonl", "catt_ms")
-    c1 = med(root / "results/latency/catt_cpu1.jsonl", "catt_ms")
+    c8 = med(root / "bench/latency/catt_cpu8.jsonl", "catt_ms")
+    c1 = med(root / "bench/latency/catt_cpu1.jsonl", "catt_ms")
     ft = med(root / "testset/diac.jsonl", "ft_ms")
     for k, (m, p) in {"catt.gpu": g, "catt.cpu8": c8, "catt.cpu1": c1, "ft.gpu": ft}.items():
         put(f"lat.{k}", m); put(f"lat.{k}.p95", p)
@@ -252,7 +252,7 @@ def latency(root, out):
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--root", default=".")
+    ap = argparse.ArgumentParser(); ap.add_argument("--root", default="/data/tashkeel_study")
     ap.add_argument("--out", default="paper_tables")
     a = ap.parse_args()
     root, out = Path(a.root), Path(a.out); out.mkdir(parents=True, exist_ok=True)

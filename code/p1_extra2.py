@@ -15,7 +15,7 @@ plt.rcParams.update({"font.family": "serif", "font.size": 8, "pdf.fonttype": 42}
 M = {}
 def put(k, v, fmt="{:.1f}"): M[k] = fmt.format(v); return M[k]
 df = pd.read_csv(R / "results/clips.csv"); df["cer"] = df["cer"].clip(upper=1.0); df["wer"] = df["wer"].clip(upper=1.0)
-T = pd.DataFrame([json.loads(l) for l in open(R / "testset/diac_catt.jsonl")])
+T = pd.DataFrame([json.loads(l) for l in open(R / "testset/diac.jsonl" if (R / "testset/diac.jsonl").exists() else R / "testset/diac_catt.jsonl")])
 
 # ---- test set description
 rows = []

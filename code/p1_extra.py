@@ -71,7 +71,7 @@ fig.legend(h, [n for _, n in MODELS] + [n for _, n in CONDS[1:]], ncol=5, fontsi
 fig.tight_layout(rect=(0, 0, 1, 0.9)); fig.savefig(OUT / "x_fig_agree.pdf")
 
 # ---- E: harm vs number of case endings added (words where Full and No-case differ)
-T = {json.loads(l)["id"]: json.loads(l) for l in open(R / "testset/diac_catt.jsonl")}
+T = {json.loads(l)["id"]: json.loads(l) for l in open(R / "testset/diac.jsonl" if (R / "testset/diac.jsonl").exists() else R / "testset/diac_catt.jsonl")}
 def n_case(r):
     fw, nw = r["cond_catt_full"].split(), r["cond_catt_nocase"].split() if "cond_catt_nocase" in r else []
     return sum(x != y for x, y in zip(fw, nw)) if nw else np.nan

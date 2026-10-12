@@ -64,3 +64,10 @@ Hardware used: one 24 GB GPU. omniASR-LLM-7B needs about 17 GB of GPU memory in 
   note   = {Preprint}
 }
 ```
+
+## Journal-length analyses
+
+`code/p1_extra.py`, `p1_extra2.py`, `p1_extra3.py` and `p1_extra4.py` produce the additional figures and tables of the
+journal versions (CER distributions, recognizer and channel agreement, case-ending analysis, voices and domains,
+diacritizer comparison, complete paired tests). Run each with `--root . --out paper_tables`. The generated tables,
+figures and number macros used by the manuscripts are in `paper_tables/`.

@@ -46,7 +46,7 @@ def tab(asr, ch, label, title):
 tab("cohere", "wb", "cw", "Paired tests, Cohere ASR, wideband, all 749 sentences.")
 tab("whisper", "wb", "ww", "Paired tests, Whisper large-v3, wideband, all 749 sentences.")
 
-T = {json.loads(l)["id"]: len(json.loads(l)["text"].split()) for l in open(R / "testset/diac_catt.jsonl")}
+T = {json.loads(l)["id"]: len(json.loads(l)["text"].split()) for l in open(R / "testset/diac.jsonl" if (R / "testset/diac.jsonl").exists() else R / "testset/diac_catt.jsonl")}
 main = df[(df.asr == "cohere") & (df.channel == "wb")].copy(); main["len"] = main.id.map(T)
 labels = [r"$\leq$5", "6-7", "8-9", "10-11", "12+"]
 fig, axes = plt.subplots(1, 2, figsize=(7.0, 2.3))

@@ -5,7 +5,7 @@ in the paper is typed by hand. All CERs are per-clip CER capped at 1.0 (see s07)
 Paired tests: per (model, ASR, channel), every diacritized condition vs raw on the same sentence and voice;
 mean difference with a 10,000-sample paired bootstrap 95% CI, two-sided Wilcoxon signed-rank, Holm-corrected
 over the conditions of that family.
-Usage: python make_tables.py --root /data/tashkeel_study --out paper_tables
+Usage: python make_tables.py --root . --out paper_tables
 """
 import argparse, json, statistics
 from pathlib import Path
@@ -252,7 +252,7 @@ def latency(root, out):
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--root", default="/data/tashkeel_study")
+    ap = argparse.ArgumentParser(); ap.add_argument("--root", default=".")
     ap.add_argument("--out", default="paper_tables")
     a = ap.parse_args()
     root, out = Path(a.root), Path(a.out); out.mkdir(parents=True, exist_ok=True)

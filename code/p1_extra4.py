@@ -1,5 +1,5 @@
 """Fourth set for Paper 1: full paired-test tables over all 749 sentences (appendix) and CER vs sentence length.
-Usage: python p1_extra4.py --root /data/tashkeel_study --out paper_tables"""
+Usage: python p1_extra4.py --root . --out paper_tables"""
 import argparse, json
 from pathlib import Path
 import numpy as np, pandas as pd

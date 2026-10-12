@@ -1,6 +1,6 @@
 """Additional analyses for the journal-length version of Paper 1, from results/clips.csv and the test set.
 Writes x_* tables/figures and x_numbers.tex (\\R{} definitions) into <out_dir>.
-Usage: python p1_extra.py --root /data/tashkeel_study --out paper_tables"""
+Usage: python p1_extra.py --root . --out paper_tables"""
 import argparse, json, re
 from pathlib import Path
 import numpy as np, pandas as pd

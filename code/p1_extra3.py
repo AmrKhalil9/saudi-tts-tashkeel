@@ -1,5 +1,5 @@
 """Third set for Paper 1: diacritizer comparison (CATT vs Fine-Tashkeel), naturalness/similarity distributions, clip-level
-agreement between recognizers. Appends to x_numbers.tex. Usage: python p1_extra3.py --root /data/tashkeel_study --out paper_tables"""
+agreement between recognizers. Appends to x_numbers.tex. Usage: python p1_extra3.py --root . --out paper_tables"""
 import argparse, json, re
 from pathlib import Path
 import numpy as np, pandas as pd

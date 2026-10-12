@@ -1,6 +1,6 @@
 """Second set of journal-length analyses for Paper 1: test-set table, per-voice and per-domain effects, full CER tables for
 every recognizer/channel, WER and DNSMOS tables, diacritizer latency table. Appends to x_numbers.tex.
-Usage: python p1_extra2.py --root /data/tashkeel_study --out paper_tables"""
+Usage: python p1_extra2.py --root . --out paper_tables"""
 import argparse, json
 from pathlib import Path
 import numpy as np, pandas as pd

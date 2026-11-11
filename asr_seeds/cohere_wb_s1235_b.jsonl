@@ -1,0 +1,504 @@
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الاحد الساعة عشر الصبح تعال قبله بربع ساعة"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع على البطاقه خلال اسبوع تقريبا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك و اي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/dia121.wb.wav", "hyp": "هيجيك الفني بكرة الصباح بيسخنلك جنب الجواد"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/ent048_s.wb.wav", "hyp": "عليك سبعة عشر الفا وثلاث مئت وتسعة وسبعون ريال تبغى تسددها دحي"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 1200"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/ent101_n.wb.wav", "hyp": "سير الوي فاي من الاعدادات وبيزبط معك"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/ent137_d.wb.wav", "hyp": "تم خصم اربعين ثمان اتريالا من رصيدكم"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمة بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن مئتي ريال"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد ثم"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في اي وقت"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم وجدو"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/dia050.wb.wav", "hyp": "تبي نؤجل التوصيل لبكرا ما فيه مشكلتن"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبله يمكن طاحي"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/dia117.wb.wav", "hyp": "طفي الراوتر وشغله مره ثانيه وخلينا نشوف"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس ممكن تعيد"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التاكد من رقم الهوية 71483 و"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر ابل باي بكل سهولة"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/ent100_n.wb.wav", "hyp": "هلا استاذ عبد الله العتيبي وش اقدر اخدمك"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقم تسعه تسعه ثلاثه سبعة صفر واحد ستة اربعه وحيوصلك بكرتا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/msa011.wb.wav", "hyp": "نود اعلامكم بان ساعات عمل الفروع تبدء من الساعه التاسعه صباحا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/msa087.wb.wav", "hyp": "يرجى التاكد من تواجد شخص لاستلام الطلب"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/dia005.wb.wav", "hyp": "ودكن احولك على قسم البطاقات ولا اكمل معك انا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/dia039.wb.wav", "hyp": "خلني اتاكد من الملف حقك وارجع لك"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابه قبل لا تقفل بعشرين دقيقتا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم كتير"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب مويه بلغنا على طول"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/ent021_d.wb.wav", "hyp": "عليك اربعين ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم ثمانية خمسة اربعة اربعة ثمانية ثلاثة واحد تسعة باسم اروى الشمري"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/ent094_s.wb.wav", "hyp": "عليك اثنا عشر الف وتسعمائه واربعه وسبعون ريال تبي تسددها الحين"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/ent107_n.wb.wav", "hyp": "اهلين استاذ تبندر العنزي ايش اقدر اساعدك"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/ent150_d.wb.wav", "hyp": "بنتصل عليك على الرقم ا 1500 صح"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العملية لعدم كفاية الرصيد في الحساب فالبحث عن معرفة مائات الاسابيع"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الادوية الى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/msa155.wb.wav", "hyp": "لاعادة سماع القائمة يرجى الضغط على علامة النجمة"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_f/msa181.wb.wav", "hyp": "تمت اضافه خدمات الانتظار الى خطكم"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمت العملاء وشي اقدر اخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/dia036.wb.wav", "hyp": "التحاليل طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/dia062.wb.wav", "hyp": "الرحلات متاخرة ساعتا وان شاء الله ما تتاخر اكثر"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وشي طلبك"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/dia157.wb.wav", "hyp": "تقرر تستلم من اقرب نقطة استلام لو تبغى"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك تسعت الاف وثمانمائه واثنان وتسعون ريال على البطاقه"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التاكد من رقم الهويه واحد اربعه ثمانيه سبعه ثلاثه اربعه واحد سته"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/ent089_d.wb.wav", "hyp": "تبدء الصيانه الساعه تسعه وتستمر اربعين دقيقتا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقم سلسلي الثلاثتالف عم ساعتين واربعين وحيوصلك بكرتا"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر خمسة واحد صفر واحد سته كي يه نعوى مك على السائل وهي تكمن السائل ابخل اسمه ابخل امن"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحه الان في التطبيق"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمة الاشعارات لمعرفة مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/chatterbox/catt_full/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقه للاستخدام داخل المملكه وخارجها"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الاحد الساعة عشر الصبح تعال قبله بربع ساعه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع على البطاقه خلال اسبوع تقريبا"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك واي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/dia121.wb.wav", "hyp": "حيجيك الفني بكرت الصباح بس خليك جنب الجوال"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/ent048_s.wb.wav", "hyp": "عليك سبعة عشر الفا وثلاث مئه وتسعه وسبعون ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 552001 و 50001"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/ent101_n.wb.wav", "hyp": "فعلها في من الاعدادات وبيزبط معك"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/ent137_d.wb.wav", "hyp": "ثم خصم اربعين وخمسون ريالا من رصيدكم"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمه بعد انتهاء المكالمه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن مئتي ريال"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في اي وقت"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم واجد"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/dia050.wb.wav", "hyp": "تبي نؤجل التوصيل لبكره ما فيه مشكله"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/dia117.wb.wav", "hyp": "طفي الراوتر وشغله مرة تانية وخلينا نشوف"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس ممكن تعيد"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 1901 6584"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر ابل باي بكل سهوله"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/ent100_n.wb.wav", "hyp": "هلا استاذ عبد الله العتيبي وش اقدر اخدمك"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقم تسعه تسعه ثلاثه سبعه صفر واحد ستة اربعه وحيوصلك بكره"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/msa011.wb.wav", "hyp": "نود اعلامكم بان ساعات عمل الفروع تبدء من الساعه التاسعه صباحا"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/msa087.wb.wav", "hyp": "يرجى التاكد من تواجد شخص لاستلام الطلب"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/dia005.wb.wav", "hyp": "ودك احولك على قسم البطاقات ولا اكمل معك انا"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/dia039.wb.wav", "hyp": "خليني اتاكد من الملف حقك وارجع لك"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابة قبل لا تقفل بعشرين دقيقه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم كتير"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب مويت بلغنا على طول"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/ent021_d.wb.wav", "hyp": "عليك اربع وعنجين ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم ثمانية خمسة اربعة اربعة ثمانية ثلاثة واحد تسعة باسم حروى الشمري"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/ent094_s.wb.wav", "hyp": "عليك اثنا عشر الف وتسعمئه واربعه وسبعون ريال تبي تسددها الحين"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/ent107_n.wb.wav", "hyp": "اهلين استاذ تبندر العنزي ايش اقدر اساعدك"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/ent150_d.wb.wav", "hyp": "بنتصل عليك على الرقم مئه خمس مئين ني خمس مئتين وخمسين تلاثا صح"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العمليه لعدم كفايه الرصيد في الحساب"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الادوية الى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/msa155.wb.wav", "hyp": "لاعادة سماع القائمه يرجى الضغط على علامتي النجمه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_f/msa181.wb.wav", "hyp": "تمت اضافه خدمه الانتظار الى خطكم"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وش اقدر اخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/dia036.wb.wav", "hyp": "التحاليل طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/dia062.wb.wav", "hyp": "الرحلت متاخره ساعه وان شاء الله ما تتاخر اكثر"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وش طلبك"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلم من اقرب نقطت استلام لو تبغى"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك تسعت الاف وثمانمائه واثنان وتسعون ريال على البطاقه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التاكد من رقم الهوية واحد اربعة ثمانية ثمانية سبعة ثلاثة اربعة واحد ستة ستة"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/ent089_d.wb.wav", "hyp": "تبدا الصيانه الساعه ساعه وتستمر خمسه وخمس دقيقه"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه ثلثلت وثلاثين وخمسه اربعه واربعين وحيوصلك بكره"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمست صفر صفر خمسة واحد صفر واحد ستة"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحه الان في التطبيق"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمه الاشعارات لمعرفه مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/chatterbox/catt_nocase/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقه للاستخدام داخل المملكه وخارجها"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الاحد الساع عشر الصبح تعال قبله بربع ساعه"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع على البطاقه خلال اسبوع تقريبا"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك واي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/dia121.wb.wav", "hyp": "هيجيك الفني بكرة الصباح بس خليك جنب الجوال"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/ent048_s.wb.wav", "hyp": "عليك سبعة عشر الفا وثلاث مئه وتسعة وسبعون ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 700 و800"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/ent101_n.wb.wav", "hyp": "تعالو الف من الاعدادات وبيزبط معك"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/ent137_d.wb.wav", "hyp": "تم خصم اربعه اربعون ريالا من رصيدكم"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمه بعد انتهاء المكالمه"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن مئتي ريال"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في اي وقت"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم واجد"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/dia050.wb.wav", "hyp": "تبي نؤجل التوصيل لبكره ما فيه مشكله"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/dia117.wb.wav", "hyp": "طفي الراوتر وشغله مره تانيه وخلينا نشوف"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس ممكن تعيد"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 7001000, 46001000, 6002000."}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر ابل باي بكل سهوله"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/ent100_n.wb.wav", "hyp": "هلا استاذ عبدالله العتيبي وش اقدر اخدمك"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقم تسعه تسعة ثلاثة سبعة صفر واحد ستة اربعة وحيوصلك بكره"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/msa011.wb.wav", "hyp": "نود اعلامكم بان ساعات عمل الفروع تبدء من الساعه التاسعه صباحا"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/msa087.wb.wav", "hyp": "يرجى التاكد من تواجد شخص لاستلام الطلب"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/chatterbox/raw/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/dia005.wb.wav", "hyp": "ودك احولك على قسم البطاقات ولا اكمل معك انا"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/dia039.wb.wav", "hyp": "خلني اتاكد من الملف حقك وارجع لك"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابه قبل لا تقفل بعشرين دقيقه"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم كتير"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب مويا بلغنا على طول"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/ent021_d.wb.wav", "hyp": "عليك سبعونين ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم ثمانية خمسة اربعة اربعة ثمانية ثلاثة واحد تسعة باسم اروى الشمر"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/ent094_s.wb.wav", "hyp": "عليك اثنا عشر الف وتسعمائه واربعه وسبعون ريال تبي تسددها الحين"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/ent107_n.wb.wav", "hyp": "اهلين استاذى بندر العنزي ايش اقدر اساعدك"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/ent150_d.wb.wav", "hyp": "بنتصل عليك على الرقم مئات الف و الفين اتساف وتمانمئات سفر وتسعه صح"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العمليه لعدم كفايه الرصيد في الحساب"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الادويه الى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/msa155.wb.wav", "hyp": "لاعادة سماع القائمه يرجى الضغط على علامتي النجمه"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_f/msa181.wb.wav", "hyp": "تمت اضافه خدمه الانتظار الى خطكم"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمتى العملاء وشاقدر واخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/dia036.wb.wav", "hyp": "التحاليل طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/dia062.wb.wav", "hyp": "الرحلت متاخره ساعه وان شاء الله ما تتاخر اكثر"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وش طلبت"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلموا من اقرب نقطت استلام لو تبغى"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك تسعه الاف وثمانمائه واثنان وتسعون ريال على البطاقه"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التاكد من رقم الهوية واحد اربعة ثمانية ثمانية سبعة ثلاثة اربعة واحد ستة سته"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/ent089_d.wb.wav", "hyp": "تبدا الصيانه الساعه تسعه وتستمر خمست وخمسين دقيقه"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقم ست ثلاثي الف واربع مئه وحيوصلك بكره"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر صفر خمسة واحد صفر واحد ستة"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحه الان في التطبيق"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمه الاشعارات لمعرفه مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/chatterbox/raw/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارجها"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الاحد الساعة عشرة الصبح تعال قبله بربع ساعة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع على البطاقة خلال أسبوع تقريباً."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك وأي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/dia121.wb.wav", "hyp": "حيجيك الفني بكرة الصباح، بس خليك جنب الجواز."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/ent048_s.wb.wav", "hyp": "عليكي سبعة عشر الف وثلاثمائة وتسعة وسبعون ريالا تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم خمسة اثنين وعشرين ثمانية واحد وثمانين"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/ent101_n.wb.wav", "hyp": "فعلا الواي فاي من اعداداته بيزبطها معك"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/ent137_d.wb.wav", "hyp": "تم خصمه الـ 423 ريالاً من رصيده"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/msa015.wb.wav", "hyp": "نشكركم علي تواصلكم ونرجو تقييم الخدمه بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/msa089.wb.wav", "hyp": "الشاحن مجاني للطلبات التي تزيد عن مئة ريال"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجي الضغط علي الرقم واحد"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في أي وقت"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/dia007.wb.wav", "hyp": "وعليش على الانتظار الضغط اليوم واجد"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/dia050.wb.wav", "hyp": "تبدي ناجل التوصيل لبكره، ما في مشكلة."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/dia117.wb.wav", "hyp": "قم بإطفاء الراوتر وشغله مرة ثانية، ودعنا نرى"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس، ممكن تعيد."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية فارو 711-60-40825"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر Apple Pay بكل سهولة."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/ent100_n.wb.wav", "hyp": "هلا أستاذ عبدالله العتيبي، وشأقدر أخدمك؟"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقمه 99370164 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/msa011.wb.wav", "hyp": "نود اعلامكم بان ساعات عمل الفروع تبدا من الساعة التاسعة صباحا"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/msa087.wb.wav", "hyp": "يرجى التأكد من تواجد شخص لاستلام الطلب"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/dia005.wb.wav", "hyp": "ولكن أحولك على قسم البطاقات ولا أكمل معك"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/dia039.wb.wav", "hyp": "خليني أتأكد من الملف حقك، وارجعلك الآن."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابة قبل لا تكفل بـ 20 دقيقة."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار، الضغط اليوم كثير"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب موية بلغنا على طول"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/ent021_d.wb.wav", "hyp": "وعليك الـ 940 ريال، تبغى تسددها الحين"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقمه 8 5 4 4 8 3 1 9 باسم أروى الشمري"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/ent094_s.wb.wav", "hyp": "عليك 12,974 ريالاً تبي تسددها الحين"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/ent107_n.wb.wav", "hyp": "أهلين أستاذة بندر العنزيش أقدر أساعدك"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/ent150_d.wb.wav", "hyp": "نتصل عليك على الرقم 55893."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/msa010.wb.wav", "hyp": "لا يمكن إتمام العملية لعدم كفاية الرصيد في الحساب"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الأدوية إلى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/msa155.wb.wav", "hyp": "لاعادة سماع القائمة يرجى الضغط على علامة \"النجمة\""}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_f/msa181.wb.wav", "hyp": "تمت إضافة خدمة الانتظار إلى خطكم!"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وش أقدر أخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/dia036.wb.wav", "hyp": "تحاليله طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/dia062.wb.wav", "hyp": "رحلة متأخرة ساعة، وإن شاء الله ما تتأخر أكثر."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وش طلب"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلمه من أقرب نقطة استلام لو تبغى."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك 9892 ريال على البطاقة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 148 873 4166."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/ent089_d.wb.wav", "hyp": "تبدأ الصيانة الساعة 9 وتستمر 45 دقيقة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه 30/91/45 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم عالرقم صفر خمسه صفر صفر خمسه عفوا واحد صفر واحد سته"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحة الآن في التطبيق."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح."}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمة الإشعارات لمعرفة مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/lahgtna/catt_full/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة الاستخدام داخل المملكة وخارج..."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/dia033.wb.wav", "hyp": "موعدكم لحد الساعة عشرة الصبح تعال قبل بربع ساعة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع على البطاقة خلال أسبوع تقريباً"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك وأي وقت تحتاجين أكلمنا"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/dia121.wb.wav", "hyp": "حيجيك الفاني بكرة الصباح، بس خليك جنب الجواز."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/ent048_s.wb.wav", "hyp": "عليك سبعة عشر الفا وثلاثمائة وتسعة وسبعون ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 5208081"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/ent101_n.wb.wav", "hyp": "تبع الواي فاي من اعداداته بيضبط معك"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/ent137_d.wb.wav", "hyp": "وكم خصمك 423 ريالاً من رصيدكم"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/msa015.wb.wav", "hyp": "نشكركم علي تواصلكم ونرجو تقييم الخدمه بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن 100 ريال."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/msa127.wb.wav", "hyp": "للإبلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في أي وقت"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار. الضغط اليوم واجد"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/dia050.wb.wav", "hyp": "فبناجا للتوصيل لبكرا ما في مشكلة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/dia117.wb.wav", "hyp": "طفي الراوتر وشغله مرة ثانية ودعنا نرى"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس ممكن تعيد"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 10711 سيرة 6485"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر \"بل بي\" بكل سهولة."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/ent100_n.wb.wav", "hyp": "هلا أستاذ عبدالله العتيبي، وشقدر أخدمك؟"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقمه 99370164 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/msa011.wb.wav", "hyp": "نود اعلامكم بأن ساعات عمل الفروع تبدأ من الساعة التاسعة صباحاً"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/msa087.wb.wav", "hyp": "يرجى التأكد من تواجد شخص لاستلام الطلب"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/dia005.wb.wav", "hyp": "ودك أحولك على قسم البطاقات ولا أكمل معك"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/dia039.wb.wav", "hyp": "خلني أتأكد من الملف حقك وارجع لك"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابة قبل لا تقفل بعشرين دقيقة."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار، الضغط اليوم كثير"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب موية بلغنا على طول"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/ent021_d.wb.wav", "hyp": "عليك 940 ريال تبغى تسددها الحين"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم 854 483 1 9 باسم أروى الشمري"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/ent094_s.wb.wav", "hyp": "عليك 12,974 ريال تبي تسددها الحين"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/ent107_n.wb.wav", "hyp": "أهلين أستاذة بندر العنزي، إيش أقدر أساعدك؟"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/ent150_d.wb.wav", "hyp": "نتصل عليك على الرقم 5020 و5893"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العمليه لعدم كفاية الرصيد في الحساب"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الأدوية إلى المنزل في بعض المدن."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحج"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/msa155.wb.wav", "hyp": "لاعادة سماع القائمة يرجى الضغط على علامة \"النجمة\""}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_f/msa181.wb.wav", "hyp": "تمت إضافة خدمة الانتظار إلى خطكم"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وشأقدر أخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/dia036.wb.wav", "hyp": "تحاليل طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/dia062.wb.wav", "hyp": "الرحلة متأخرة ساعة وإن شاء الله ما تتأخر أكثر."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وش طلبك"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلمه من أقرب نقطة استلام لو تبغى"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك 9892 ريال على البطاقة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 148 8 73 4166."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/ent089_d.wb.wav", "hyp": "تبدأ الصيانة الساعة 9 وتستمر 45 دقيقة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه 360 و90 و1 و540 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/ent139_s.wb.wav", "hyp": "نسيت ان التواصل معكم علي الرقم صفر خمسه صفر صفر خمسه واحد صفر واحد سته"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار. جميع موظفينا مشغولون حالياً بخدمة عملاء آخرين."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحة الآن في التطبيق."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح."}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمة الإشعارات لمعرفة مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/lahgtna/catt_nocase/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارج..."}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الأحد الساعة عشرة الصبح تعال قبل بربع ساعة"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/dia059.wb.wav", "hyp": "هالمبلغ بيرجع على البطاقة خلال أسبوع تقريباً."}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك وأي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/dia121.wb.wav", "hyp": "حيجيك الفني بكرة الصباح، بس خليكها بالجوال"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/ent048_s.wb.wav", "hyp": "عليك 1739 ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم من 502281"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/ent101_n.wb.wav", "hyp": "تاع الواي فاي من الاعدادات ومضبط معك"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/ent137_d.wb.wav", "hyp": "كم خصمه 423 ريالة من رصيدكم؟"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمة بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/msa089.wb.wav", "hyp": "الشاحن مجاني الطلبات التي تزيد عن 100 ريال"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجي الضغط علي الرقم واحد"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في أي وقت"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار، الضغط اليوم واجد."}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/dia050.wb.wav", "hyp": "فبنأجل التوصيل لغد، ما في مشكلة"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/dia117.wb.wav", "hyp": "وفي الراوتر، وشغله مرة تانية، ودعونا نرى"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس، ممكن تعيد."}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 710-064825"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر \"آبل Pay\" بكل سهولة."}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/ent100_n.wb.wav", "hyp": "هلا أستاذ عبدالله العتيبي وشقدر أخدمك؟"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقمه 99370164 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/msa011.wb.wav", "hyp": "نود إعلامكم بأن ساعات عمل الفروع تبدأ من الساعة التاسعة صباحاً"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/msa087.wb.wav", "hyp": "يرجى التأكد من تواجد شخص لاستلام الطلب."}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/lahgtna/raw/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح."}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/dia005.wb.wav", "hyp": "ودك أحولك على قسم البطاقات ولا أكمل معك؟"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/dia039.wb.wav", "hyp": "خلني أتأكد من الملف حقك وارجعلك"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابة قبل لا تقفل بـ 20 دقيقة"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/dia107.wb.wav", "hyp": "معليش على انتظار، الضغط اليوم كثير"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب موية بلغنا على طول"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/ent021_d.wb.wav", "hyp": "عليك 940 ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم 8 5 4 4 8 3 1 9 باسم أروى الشمري"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/ent094_s.wb.wav", "hyp": "عليك 12974 ريال تبي تسددها الحين؟"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/ent107_n.wb.wav", "hyp": "أهلين أستاذة بندر العنزي، إيش أقدر أساعدك؟"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/ent150_d.wb.wav", "hyp": "بنتصل عليك على الرقم 50205893، صح؟"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العمليه لعدم كفاية الرصيد في الحساب."}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الأدوية إلى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/msa155.wb.wav", "hyp": "لاعادة سماع القائمة يرجى الضغط على علامة \"النجمة\""}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_f/msa181.wb.wav", "hyp": "تمت اضافة خدمه الانتظار الى خط"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وشأقدر أخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/dia036.wb.wav", "hyp": "تحاليل طلعت، و تقدر تشوفها بالتطبيق."}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/dia062.wb.wav", "hyp": "رحلتي متأخرة ساعة، وإن شاء الله ما تتأخر أكثر."}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وايش طلب"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلمه من أقرب نقطة استلام لو تبغى"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/ent014_s.wb.wav", "hyp": "رجعنالك 9892 ريال على البطاقة"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 148 8734166"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/ent089_d.wb.wav", "hyp": "تبدأ الصيانة الساعة 9 وتستمر 45 دقيقة"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه 30 و60 و91 و45، وحيوصلك."}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمسة صفر صفر واحد صفر واحد ستة"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحه الان في التطبيق"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح."}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمة الإشعارات لمعرفة مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/lahgtna/raw/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارجها."}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الاحد الساعه عشر الصبح تعال قبله بربع ساعة"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/dia059.wb.wav", "hyp": "المبلغ يرجع على البطاقة خلال أسبوع"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك وأي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/dia121.wb.wav", "hyp": "هيجيك الفني بكرة الصباح باس خليك جنب الجوار"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/ent048_s.wb.wav", "hyp": "عليك سبعة عشر الفا وثلاثمائه وتسعه وسبعون ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 500 مليون و22881"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/ent101_n.wb.wav", "hyp": "فعلا واي فاي من الاعدادات وبيزبط معك"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/ent137_d.wb.wav", "hyp": "تم خصم 423 ريالاً من رصيدكم"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمة بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن مائتي ريال"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في اي وقت"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار. الضغط اليوم وجد"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/dia050.wb.wav", "hyp": "تبي نؤجل التوصيل لبكرت ما في مشكله"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/dia075.wb.wav", "hyp": "فيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/dia117.wb.wav", "hyp": "طفي \"راوتري\" وشغله مرة ثانية، وخلينا نشوف."}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليه كويس ممكن تعيد"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية مليار و711 مليونا و6485"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر Apple Pay بكل سهولة"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/ent100_n.wb.wav", "hyp": "هلا أستاذ عبدالله العتيبي واش أقدر أخدمك؟"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقم تسعه تسعه ثلاثه سبعه صفر واحد سته اربعه وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/msa011.wb.wav", "hyp": "نودّي إعلامكم بأن ساعات عمل الفروع تبدأ من الساعة التاسعة صباحًا."}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/msa087.wb.wav", "hyp": "يرجى التاكد من تواجد شخص لاستلام الطلب"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/msa169.wb.wav", "hyp": "سيتم إرسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/xtts/catt_full/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/dia005.wb.wav", "hyp": "ولكن احولك على قسم البطاقات ولا اكمل معك انا"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/dia039.wb.wav", "hyp": "خليني أتأكد من الملف حقك وأرجع لك"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابه قبلو لا تقفل بعشرين دقيقتا"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم كالتأيير"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب موية بلغنا على طول"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/ent021_d.wb.wav", "hyp": "عليك تسعمية واربعين ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم ثمانية خمسة أربعة أربعة ثمانية ثلاثة واحد تسعة باسم أروى الشمرى"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/ent094_s.wb.wav", "hyp": "عليك اثنا عشر الفا وتسع مئه واربعه وسبعون ريال تبي تسددها الحين"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/ent107_n.wb.wav", "hyp": "اهلين استاذ تبندر العنزي ايش اقدر اساعدك"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/ent150_d.wb.wav", "hyp": "لنتصل عليك على الرقم 500 مليون و25 1893 صحيح"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العملية لعدم كفاية الرصيد في الحساب"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الأدوية إلى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/msa155.wb.wav", "hyp": "لإعادة سماع القائمة يرجى الضغط على علامة النجمة"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_f/msa181.wb.wav", "hyp": "تمت إضافة خدمة الانتظار إلى خطكم"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وشي أقدر أخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/dia036.wb.wav", "hyp": "التحاليل طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/dia062.wb.wav", "hyp": "الرحلة متأخرة ساعة وإن شاء الله ما تتأخر أكثر."}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وشي طلبك"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلم من اقرب نقطة استلام لو تبغى"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك تسعة آلاف وثمانمائة واثنان وتسعون ريال على البطاقة"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التأكد من رقم الهوية واحد اربعه ثمانيه ثمانية سبعة ثلاثة اربعه واحد سته سته"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/ent089_d.wb.wav", "hyp": "تبدأ الصيانة الساعة التسعة وتستمر خمس وأربعين دقيقة"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه 63 مليونا و91547 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمسه صفر صفرا صفر خمسه واحد صفر واحد سته"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار. جميع موظفينا مشغولون حاليا بخدمة عملاء آخرين."}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحة الآن في التطبيق"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمه الاشعارات لمعرفه مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/xtts/catt_full/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارجها"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الأحد الساعة عشرة الصبح تعال قبله بربع ساعة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع للبطاقه خلال اسبوع تقريبا"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك واي وقت تحتاجنا كلمنا"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/dia121.wb.wav", "hyp": "هيجيك الفنية بكرة الصباح، بس خليك جنب الجوار"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/ent048_s.wb.wav", "hyp": "عليك سبعة عشر الفا وثلاثمئه وتسعه وسبعون ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 500 مليون و22 ألف 81"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/ent101_n.wb.wav", "hyp": "فعل واي فاي من الاعداد وبيزبط معك"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/ent137_d.wb.wav", "hyp": "تم خصمه 423 ريالاً من رصيدكم"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمه بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن مئتي ريال"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/msa127.wb.wav", "hyp": "للإبلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في أي وقت."}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم وجد"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/dia050.wb.wav", "hyp": "حتى بنأجل التوصيل لبكرا ما فيه مشكلة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طاح"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/dia117.wb.wav", "hyp": "طفي راوتر وشغله مرة تانية، وخلينا نشوف."}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليه كويس، ممكن تعيد."}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم وعلي مليار و711,6425"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم دفع عبر Apple Pay بكل سهولة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/ent100_n.wb.wav", "hyp": "هلأ أستاذ عبدالله العتيبي، وش أقدر أخدمه؟"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقمه 9-9-3-7-0-1-6-4 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/msa011.wb.wav", "hyp": "نود أعلامكم بأن ساعات عمل الفروع تبدأ من الساعة التاسعة صباحًا"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/msa087.wb.wav", "hyp": "يرجى التأكد من تواجد شخص لاستلام الطلب."}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عملاء الكهرباء"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/dia005.wb.wav", "hyp": "ودك احولك على قسم البطاقات ولا اكمل معك انا"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/dia039.wb.wav", "hyp": "خليني اتاكد من الملف حقك وارجع لك"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابه قبل لا تقفل بعشرين دقيقه"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم كتير"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب نووي بلغنا على طول"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/ent021_d.wb.wav", "hyp": "عليك تسعميه واربعين ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم 8 5 4 4 8 3 1 9 باسم أروى الشمريه"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/ent094_s.wb.wav", "hyp": "عليك اثنا عشر الفا وتسعمائه واربعه وسبعون ريال تبي تسددها الحين"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/ent107_n.wb.wav", "hyp": "أهلين استاذة بندر العنزي، ايش اقدر اساعده؟"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/ent150_d.wb.wav", "hyp": "لنتصل عليك على الرقم 500 مليونا و25893 صح"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العملية لعدم كفاية الرصيد في الحساب."}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمه توصيل الادويه الى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/msa155.wb.wav", "hyp": "لإعادة سماع القائمة يرجى الضغط على علامة النجمة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_f/msa181.wb.wav", "hyp": "تمت اضافة خدمه الانتظار الى خطكم"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وش اقدر اخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/dia036.wb.wav", "hyp": "التحاليل طلعت وتقدر تشوفها بالتطبيق"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/dia062.wb.wav", "hyp": "الرحله متاخره ساعه وان شاء الله ما تتاخر اكثر"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/dia095.wb.wav", "hyp": "حياك الله تفضل وش طلبك"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلم من اقرب نقطت استلام لو تبغى"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك 9892 ريال على البطاقة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التأكد من رقم الهوية 148 8 734 166"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/ent089_d.wb.wav", "hyp": "تبدأ الصيانة الساعة 9 وتستمر 45 دقيقة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه 63 مليونا و91547 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمسه صفر صفر صفر خمسه واحد صفر واحد سته"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل متاحة الآن في التطبيق."}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمة الإشعارات لمعرفة مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/xtts/catt_nocase/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارجها."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/dia033.wb.wav", "hyp": "موعدك يوم الأحد 19 الصبح تعال قبله بربع ساعة"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/dia059.wb.wav", "hyp": "المبلغ بيرجع على البطاقة خلال أسبوع تقريباً."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/dia090.wb.wav", "hyp": "الله يحفظك وأي وقت تحتاجونها كلمنا"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/dia121.wb.wav", "hyp": "هاي الجهاز الفني بكرة الصباح، بس خليك جنب الجوال"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/ent048_s.wb.wav", "hyp": "عليك 17379 ريال تبغى تسددها دحين"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/ent085_d.wb.wav", "hyp": "سيتم التواصل معكم على الرقم 500 مليون و22881"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/ent101_n.wb.wav", "hyp": "فعل وفاي من الاعدادات وبيزبط معك"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/ent137_d.wb.wav", "hyp": "تم خصمه 423 ريال"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/msa015.wb.wav", "hyp": "نشكركم على تواصلكم ونرجو تقييم الخدمه بعد انتهاء المكالمة"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/msa089.wb.wav", "hyp": "الشحن مجاني للطلبات التي تزيد عن مئتي ريال"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/msa127.wb.wav", "hyp": "للابلاغ عن انقطاع التيار يرجى الضغط على الرقم واحد"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_f/msa172.wb.wav", "hyp": "نرحب بملاحظاتكم ومقترحاتكم في أي وقت."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/dia007.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم واجد"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/dia050.wb.wav", "hyp": "تبين أجل التوصيل لبكره؟ ما فيه مشكلة."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/dia075.wb.wav", "hyp": "شيك على القاطع الرئيسي قبل يمكن طرحه"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/dia117.wb.wav", "hyp": "طفي الراوتر وشغله مرة أخري"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/dia183.wb.wav", "hyp": "ما فهمت عليك كويس، ممكن تعيد"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/ent032_d.wb.wav", "hyp": "يرجى التأكد من رقم الهوية: مليار و711,064,2825"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/ent065_n.wb.wav", "hyp": "يمكنكم الدفع عبر \"آبل باي\" بكل سهولة."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/ent100_n.wb.wav", "hyp": "هلا أستاذ عبدالله العتيبي، واش أقدر أخدمك؟"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/ent132_s.wb.wav", "hyp": "طلبك رقمه 99370164 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/msa011.wb.wav", "hyp": "نود اعلامكم بأن ساعات عمل الفروع تبدأ من الساعة التاسعة صباحاً"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/msa087.wb.wav", "hyp": "يرجى التأكد من تواجد شخص لاستلام الطلب."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/msa126.wb.wav", "hyp": "مرحبا بكم في خدمة عمل الكهرباء"}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/msa169.wb.wav", "hyp": "سيتم ارسال استبيان قصير بعد انتهاء المكالمة."}
+{"path": "out_seeds/s1235/xtts/raw/hijazi_m/msa196.wb.wav", "hyp": "تم تسجيل وصولكم بنجاح"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/dia005.wb.wav", "hyp": "ولك أحولك على قسم النطاقات ولا أكمل معك."}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/dia039.wb.wav", "hyp": "خلني أتأكد من الملف حقك"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/dia066.wb.wav", "hyp": "احرص تكون عند البوابة قبل أن تقفل بعشرين دقيقة"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/dia107.wb.wav", "hyp": "معليش على الانتظار الضغط اليوم كتير"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/dia178.wb.wav", "hyp": "لو في تسريب مويا بلغنا على طول"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/ent021_d.wb.wav", "hyp": "عليك تسعمئة وأربعين ريال طب تمام تسددها دحين"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/ent064_s.wb.wav", "hyp": "تم تسجيل الطلب رقم 854831"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/ent094_s.wb.wav", "hyp": "عليك 12,974 ريال تبغي تسددها الحين"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/ent107_n.wb.wav", "hyp": "أهلين أستاذة بندر العنزي، ايش اقدر اساعدك؟"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/ent150_d.wb.wav", "hyp": "بنتصل عليك على الرقم 500 مليون و25830"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/msa010.wb.wav", "hyp": "لا يمكن اتمام العمليه لعدم كفاية الرصيد في الحساب"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/msa072.wb.wav", "hyp": "تتوفر خدمة توصيل الأدوية إلى المنزل في بعض المدن"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/msa123.wb.wav", "hyp": "تم تحديث بيانات المسافر في الحجز"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/msa155.wb.wav", "hyp": "لإعادة سماع القائمة يرجى الضغط على علامة النجمة"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_f/msa181.wb.wav", "hyp": "تمت اضافة خدمه الانتظار الى خطكم"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/dia001.wb.wav", "hyp": "هلا والله معك خدمة العملاء وش اقدر اخدمك فيه اليوم"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/dia036.wb.wav", "hyp": "التحاليل طلعت وتقدر تشوفها في التطبيق"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/dia062.wb.wav", "hyp": "الرحله متاخره ساعه وان شاء الله ما تتاخر اكثر"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/dia095.wb.wav", "hyp": "حياك الله"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/dia157.wb.wav", "hyp": "تقدر تستلمو من اقرب نقطة استلام لو تبغى"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/ent014_s.wb.wav", "hyp": "رجعنا لك 9892 ريال على البطاقة"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/ent059_s.wb.wav", "hyp": "يرجى التأكد من رقم الهوية واحد اربعه ثمانيه ثماني سبع ثلاث اربعه واحد سته سته"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/ent089_d.wb.wav", "hyp": "تبدأ الصيانة الساعة 9 وتستمر 45 دقيقة"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/ent105_d.wb.wav", "hyp": "طلبك رقمه 63 مليون و91 ألف و547 وحيوصلك بكرة"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/ent139_s.wb.wav", "hyp": "سيتم التواصل معكم على الرقم صفر خمسه صفر صفر خمسه واحد صفر واحد صفر"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/msa004.wb.wav", "hyp": "نعتذر عن الانتظار جميع موظفينا مشغولون حاليا بخدمة عملاء اخرين"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/msa056.wb.wav", "hyp": "نتائج التحاليل، متاحة الآن في التطبيق."}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/msa092.wb.wav", "hyp": "تم تحديث عنوان التوصيل بنجاح"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/msa136.wb.wav", "hyp": "يمكنكم الاشتراك في خدمة اشعارات لمعرفة مواعيد الانقطاع"}
+{"path": "out_seeds/s1235/xtts/raw/najdi_m/msa177.wb.wav", "hyp": "تم تفعيل البطاقة للاستخدام داخل المملكة وخارجها."}

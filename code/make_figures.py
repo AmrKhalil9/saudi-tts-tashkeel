@@ -14,7 +14,7 @@ import pandas as pd
 
 MODELS = [("habibi_sau", "Habibi-SAU"), ("habibi_unified", "Habibi-Unified"), ("omnivoice", "OmniVoice"),
           ("lahgtna", "Lahgtna"), ("chatterbox", "Chatterbox-ML"), ("xtts", "XTTS-v2")]
-CONDS = [("catt_full", "Full"), ("catt_nocase", "No-case"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
+CONDS = [("catt_full", "Full"), ("catt_nocase", "No-final"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
 COLORS = ["#b2182b", "#ef8a62", "#999999", "#2166ac"]  # colour-blind-safe diverging set
 plt.rcParams.update({"font.family": "serif", "font.size": 8, "axes.linewidth": 0.6, "pdf.fonttype": 42})
 

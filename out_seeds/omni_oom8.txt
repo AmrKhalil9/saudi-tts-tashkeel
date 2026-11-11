@@ -1,0 +1,8 @@
+out/chatterbox/catt_full/najdi_m/ent101_n.wb.wav
+out/chatterbox/catt_full/hijazi_f/ent100_n.wb.wav
+out/chatterbox/catt_full/hijazi_m/ent107_n.wb.wav
+out/chatterbox/catt_full/najdi_m/ent085_d.wb.wav
+out/chatterbox/catt_full/najdi_f/ent094_s.wb.wav
+out/chatterbox/catt_full/najdi_m/ent137_d.wb.wav
+out/chatterbox/catt_full/hijazi_f/ent064_s.wb.wav
+out/chatterbox/catt_full/najdi_f/ent014_s.wb.wav

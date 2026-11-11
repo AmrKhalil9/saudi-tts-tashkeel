@@ -16,7 +16,7 @@ from scipy.stats import wilcoxon
 
 MODELS = [("habibi_sau", "Habibi-SAU"), ("habibi_unified", "Habibi-Unified"), ("omnivoice", "OmniVoice"),
           ("lahgtna", "Lahgtna"), ("chatterbox", "Chatterbox-ML"), ("xtts", "XTTS-v2")]
-CONDS = [("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-case"), ("shadda_only", "Shadda"),
+CONDS = [("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-final"), ("shadda_only", "Shadda"),
          ("ft_full", "FT-full")]
 REGS = [("msa", "MSA"), ("dialect", "Dialect"), ("entity", "Entity")]
 NUM = {}
@@ -85,10 +85,10 @@ def table_main(df, out):
     body = "\n".join(lines)
     (out / "tab_main.tex").write_text(
         "\\begin{table}[t]\\centering\\small\\setlength{\\tabcolsep}{3pt}\n\\begin{tabular}{lrrrrr}\\toprule\n"
-        "TTS model & Raw & Full & No-case & Shadda & FT-full\\\\\n" + body + "\n\\bottomrule\\end{tabular}\n"
+        "TTS model & Raw & Full & No-final & Shadda & FT-full\\\\\n" + body + "\n\\bottomrule\\end{tabular}\n"
         "\\caption{Mean CER (\\%) over all 749 sentences, per text condition. $^{\\uparrow}$/$^{\\downarrow}$: "
         "significantly worse/better than Raw (paired Wilcoxon, Holm-corrected over the four conditions, "
-        "$p<0.05$). Full, No-case and Shadda come from CATT, and FT-full comes from Fine-Tashkeel.}\\label{tab:main}\n"
+        "$p<0.05$). Full, No-final and Shadda come from CATT, and FT-full comes from Fine-Tashkeel.}\\label{tab:main}\n"
         "\\end{table}\n")
 
 
@@ -104,7 +104,7 @@ def table_register(df, out):
         rows.append(f"{name} & " + " & ".join(cells) + "\\\\")
     (out / "tab_register.tex").write_text(
         "\\begin{table*}[t]\\centering\\footnotesize\\setlength{\\tabcolsep}{3pt}\n\\begin{tabular}{lrrr|rrr}\\toprule\n"
-        "& \\multicolumn{3}{c|}{Full (CATT)} & \\multicolumn{3}{c}{No-case (CATT)}\\\\\n"
+        "& \\multicolumn{3}{c|}{Full (CATT)} & \\multicolumn{3}{c}{No-final (CATT)}\\\\\n"
         "TTS model & MSA & Dialect & Entity & MSA & Dialect & Entity\\\\\\midrule\n" + "\n".join(rows) +
         "\n\\bottomrule\\end{tabular}\n\\caption{Change in CER (percentage points) relative to Raw, by register, "
         "with paired-bootstrap 95\\% CIs (Cohere ASR, wideband; $n=200$ MSA, 200 dialect, 349 entity sentences).}"
@@ -119,13 +119,14 @@ def table_robust(df, out):
         cells = []
         for c in ["catt_full", "catt_nocase"]:
             for asr, ch, _ in settings:
-                t = paired(df, m, asr, ch, [c]).get(c)
+                # Holm over all diacritized conditions of this setting, as in Table 4 (the caption says so)
+                t = paired(df, m, asr, ch, [k for k, _ in CONDS[1:]]).get(c)
                 cells.append("--" if t is None else f"{t['d']:+.1f}{mark(t)}")
         rows.append(f"{name} & " + " & ".join(cells) + "\\\\")
     hdr = " & ".join(s[2] for s in settings)
     (out / "tab_robust.tex").write_text(
         "\\begin{table*}[t]\\centering\\small\\setlength{\\tabcolsep}{3pt}\n\\begin{tabular}{lrrrrr|rrrrr}\\toprule\n"
-        "& \\multicolumn{5}{c|}{Full (CATT) vs Raw} & \\multicolumn{5}{c}{No-case (CATT) vs Raw}\\\\\n"
+        "& \\multicolumn{5}{c|}{Full (CATT) vs Raw} & \\multicolumn{5}{c}{No-final (CATT) vs Raw}\\\\\n"
         f"TTS model & {hdr} & {hdr}\\\\\\midrule\n" + "\n".join(rows) +
         "\n\\bottomrule\\end{tabular}\n\\caption{$\\Delta$CER (pp) under three ASR systems and two channels. "
         "Co = Cohere ASR, Wh = Whisper large-v3, Omni = omniASR-LLM-7B; WB = wideband, 711 = G.711 $\\mu$-law. "
@@ -212,7 +213,7 @@ def table_quality(df, out):
         "\\begin{tabular}{lrrr|rrr|r|rr}\\toprule\n"
         "& \\multicolumn{3}{c|}{UTMOSv2 $\\uparrow$} & \\multicolumn{3}{c|}{Speaker SIM $\\uparrow$} & Dur. & "
         "\\multicolumn{2}{c}{Failure \\% $\\downarrow$}\\\\\n"
-        "TTS model & Raw & Full & No-case & Raw & Full & No-case & Full/Raw & Raw & Full\\\\\\midrule\n" +
+        "TTS model & Raw & Full & No-final & Raw & Full & No-final & Full/Raw & Raw & Full\\\\\\midrule\n" +
         "\n".join(rows) + "\n\\bottomrule\\end{tabular}\n\\caption{Naturalness (UTMOSv2), speaker similarity "
         "(ECAPA cosine to the voice prompt), median duration ratio Full/Raw, and failure rate (share of clips "
         "with CER $\\geq$ 50\\%, Cohere ASR). Wideband, 749 sentences per cell.}\\label{tab:quality}\n\\end{table*}\n")
@@ -243,8 +244,8 @@ def latency(root, out):
         v = [json.loads(l)[key] for l in open(path)]
         return statistics.median(v), statistics.quantiles(v, n=20)[18]
     g = med(root / "testset/diac.jsonl", "catt_ms")
-    c8 = med(root / "bench/latency/catt_cpu8.jsonl", "catt_ms")
-    c1 = med(root / "bench/latency/catt_cpu1.jsonl", "catt_ms")
+    c8 = med(root / "results/latency/catt_cpu8.jsonl", "catt_ms")
+    c1 = med(root / "results/latency/catt_cpu1.jsonl", "catt_ms")
     ft = med(root / "testset/diac.jsonl", "ft_ms")
     for k, (m, p) in {"catt.gpu": g, "catt.cpu8": c8, "catt.cpu1": c1, "ft.gpu": ft}.items():
         put(f"lat.{k}", m); put(f"lat.{k}.p95", p)

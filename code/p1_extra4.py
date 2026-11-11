@@ -10,7 +10,7 @@ ap = argparse.ArgumentParser(); ap.add_argument("--root"); ap.add_argument("--ou
 R, OUT = Path(a.root), Path(a.out)
 MODELS = [("habibi_sau", "Habibi-SAU"), ("habibi_unified", "Habibi-Unified"), ("omnivoice", "OmniVoice"), ("lahgtna", "Lahgtna"),
           ("chatterbox", "Chatterbox-ML"), ("xtts", "XTTS-v2")]
-CONDS = [("catt_full", "Full"), ("catt_nocase", "No-case"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
+CONDS = [("catt_full", "Full"), ("catt_nocase", "No-final"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
 plt.rcParams.update({"font.family": "serif", "font.size": 8, "pdf.fonttype": 42})
 df = pd.read_csv(R / "results/clips.csv"); df["cer"] = df["cer"].clip(upper=1.0)
 rng = np.random.default_rng(0)

@@ -10,7 +10,7 @@ ap = argparse.ArgumentParser(); ap.add_argument("--root"); ap.add_argument("--ou
 R, OUT = Path(a.root), Path(a.out)
 MODELS = [("habibi_sau", "Habibi-SAU"), ("habibi_unified", "Habibi-Unified"), ("omnivoice", "OmniVoice"), ("lahgtna", "Lahgtna"),
           ("chatterbox", "Chatterbox-ML"), ("xtts", "XTTS-v2")]
-CONDS = [("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-case"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
+CONDS = [("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-final"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
 plt.rcParams.update({"font.family": "serif", "font.size": 8, "pdf.fonttype": 42})
 M = {}
 def put(k, v, fmt="{:.1f}"): M[k] = fmt.format(v); return M[k]
@@ -98,7 +98,7 @@ for m, n in MODELS:
     rows.append(f"{n} & " + " & ".join(cells) + " \\\\")
 open(OUT / "x_tab_dnsmos.tex", "w").write(
     "\\begin{table*}[t]\\centering\\small\\caption{DNSMOS P.835 signal (SIG), background (BAK) and overall (OVRL) quality for the Raw, "
-    "Full and No-case conditions (Cohere ASR set, wideband).}\\label{tab:dnsmos}\n\\begin{tabular}{l" + "rrr" * 3 + "}\\toprule\n& "
+    "Full and No-final conditions (Cohere ASR set, wideband).}\\label{tab:dnsmos}\n\\begin{tabular}{l" + "rrr" * 3 + "}\\toprule\n& "
     + " & ".join(f"\\multicolumn{{3}}{{c}}{{{n}}}" for _, n in CONDS[:3]) + "\\\\\nTTS model & " + " & ".join(["SIG & BAK & OVRL"] * 3)
     + " \\\\\\midrule\n" + "\n".join(rows) + "\n\\bottomrule\\end{tabular}\\end{table*}\n")
 

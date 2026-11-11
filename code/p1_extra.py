@@ -10,7 +10,7 @@ ap = argparse.ArgumentParser(); ap.add_argument("--root"); ap.add_argument("--ou
 R, OUT = Path(a.root), Path(a.out); OUT.mkdir(exist_ok=True, parents=True)
 MODELS = [("habibi_sau", "Habibi-SAU"), ("habibi_unified", "Habibi-Unified"), ("omnivoice", "OmniVoice"), ("lahgtna", "Lahgtna"),
           ("chatterbox", "Chatterbox-ML"), ("xtts", "XTTS-v2")]
-CONDS = [("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-case"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
+CONDS = [("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-final"), ("shadda_only", "Shadda"), ("ft_full", "FT-full")]
 MN, CN = dict(MODELS), dict(CONDS)
 plt.rcParams.update({"font.family": "serif", "font.size": 8, "pdf.fonttype": 42})
 M = {}
@@ -70,7 +70,7 @@ h = [plt.Line2D([], [], marker="o", ls="", color=plt.cm.tab10(i), ms=4) for i in
 fig.legend(h, [n for _, n in MODELS] + [n for _, n in CONDS[1:]], ncol=5, fontsize=6, frameon=False, loc="upper center", bbox_to_anchor=(0.5, 1.02))
 fig.tight_layout(rect=(0, 0, 1, 0.9)); fig.savefig(OUT / "x_fig_agree.pdf")
 
-# ---- E: harm vs number of case endings added (words where Full and No-case differ)
+# ---- E: harm vs number of word-final marks added (words where Full and No-final differ)
 T = {json.loads(l)["id"]: json.loads(l) for l in open(R / "testset/diac.jsonl" if (R / "testset/diac.jsonl").exists() else R / "testset/diac_catt.jsonl")}
 def n_case(r):
     fw, nw = r["cond_catt_full"].split(), r["cond_catt_nocase"].split() if "cond_catt_nocase" in r else []
@@ -84,7 +84,7 @@ for m, n in MODELS:
     j = j.dropna(subset=["k"]); j["bin"] = pd.cut(j.k, [-1, 2, 4, 6, 100], labels=["0-2", "3-4", "5-6", "7+"])
     g = j.groupby("bin", observed=True).d.mean(); ax.plot(range(len(g)), g.values, marker="o", ms=3, lw=1, label=n)
     rho = j[["k", "d"]].corr(method="spearman").iloc[0, 1]; put(f"x.case.{m}.rho", rho, "{:.2f}")
-ax.set_xticks(range(4)); ax.set_xticklabels(["0-2", "3-4", "5-6", "7+"]); ax.set_xlabel("Words with a case ending added by CATT")
+ax.set_xticks(range(4)); ax.set_xticklabels(["0-2", "3-4", "5-6", "7+"]); ax.set_xlabel("Words with a word-final mark added by CATT")
 ax.set_ylabel("$\\Delta$CER Full vs Raw (pp)"); ax.legend(fontsize=5.5, frameon=False, ncol=2); ax.grid(alpha=.3, lw=.4)
 fig.tight_layout(); fig.savefig(OUT / "x_fig_case.pdf")
 put("x.case.median_words", float(np.nanmedian(list(ncase.values()))), "{:.0f}")
@@ -141,7 +141,7 @@ if sid:
     ref = T[sid]["text"]
     lines.append(f"Reference & \\textarabic{{{esc(ref)}}} & -- \\\\\\midrule")
     for m, n in (("habibi_sau", "Habibi-SAU"), ("xtts", "XTTS-v2")):
-        for c, cn in (("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-case")):
+        for c, cn in (("raw", "Raw"), ("catt_full", "Full"), ("catt_nocase", "No-final")):
             r = main[(main.model == m) & (main.cond == c) & (main.id == sid) & (main.voice == voice)]
             if len(r): lines.append(f"{n}, {cn} & \\textarabic{{{esc(r.hyp.iloc[0])[:140]}}} & {100 * r.cer.iloc[0]:.0f} \\\\")
     M["x.ex.id"] = sid
